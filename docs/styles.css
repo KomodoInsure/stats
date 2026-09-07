@@ -183,15 +183,18 @@ details[open].panel > summary::after { content: "−"; }
 
 .data-disclosure { font-size: .82rem; }
 .series-legend + .data-disclosure { margin-top: 1rem; }
+.pricing-methodology { margin-top: 1rem; }
 .data-disclosure summary { cursor: pointer; color: var(--accent); }
 .table-wrap { width: 100%; min-width: 0; max-width: 100%; overflow-x: auto; margin-top: .5rem; }
 table { width: 100%; border-collapse: collapse; font-size: .76rem; }
 th, td { padding: .42rem .55rem; text-align: right; border-bottom: 1px solid var(--border); font-variant-numeric: tabular-nums; }
+tbody tr:last-child td { border-bottom: 0; }
 th:first-child, td:first-child { text-align: left; }
 th { color: var(--muted); }
 
 .dashboard-footer { display: flex; flex-wrap: wrap; justify-content: space-between; gap: .6rem 1rem; padding: .85rem .15rem; color: var(--muted); font-size: .75rem; }
-.project-attribution { margin-left: auto; color: var(--accent); }
+.project-attribution { display: inline-flex; align-items: center; gap: .35rem; margin-left: auto; color: var(--accent); }
+.github-icon { width: 1rem; height: 1rem; flex: 0 0 auto; fill: currentcolor; }
 .stale { color: var(--warning); font-weight: 750; }
 .embed-help { margin-top: 1rem; margin-bottom: 3rem; padding: 1rem; border-top: 1px solid var(--border); }
 .embed-examples { display: grid; gap: .8rem; margin-top: 1rem; }
