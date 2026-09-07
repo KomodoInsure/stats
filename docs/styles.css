@@ -124,7 +124,7 @@ details.panel > summary::after { flex: 0 0 auto; content: "+"; color: var(--acce
 details[open].panel > summary::after { content: "−"; }
 .details-body { width: 100%; min-width: 0; max-width: 100%; padding: 0 1rem 1rem; }
 
-.cards { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: .8rem; }
+.cards { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: .8rem; }
 .metric-card { display: grid; align-content: start; min-height: 9rem; }
 .metric-heading { display: flex; align-items: center; gap: .35rem; }
 .metric-value { margin: .55rem 0 .2rem; font-size: clamp(1.75rem, 5vw, 3rem); font-weight: 760; letter-spacing: -.055em; line-height: 1; font-variant-numeric: tabular-nums; }
