@@ -16,34 +16,36 @@
     </div>
   </header>
   <main id="app" tabindex="-1" aria-live="polite"><p class="loading">Loading activity…</p></main>
-  <aside class="embed-help" aria-labelledby="embed-title">
-    <h2 id="embed-title">Embed these widgets</h2>
-    <p>Use any supported view on the same published site. The iframe contains no analytics or live telemetry.</p>
-    <div class="embed-examples">
-      <div>
-        <label for="embed-example">Full dashboard</label>
-        <div class="copy-row">
-          <input id="embed-example" readonly value="&lt;iframe src=&quot;./widget.html?view=all&amp;range=30&amp;theme=auto&quot; title=&quot;Vibe in the Open activity&quot; loading=&quot;lazy&quot;&gt;&lt;/iframe&gt;">
-          <button type="button" data-copy-target="embed-example">Copy</button>
+  <details class="embed-help">
+    <summary>Embed dashboard widgets</summary>
+    <div class="embed-body">
+      <p>Copy an iframe for a focused view. The embed contains no analytics or live telemetry.</p>
+      <div class="embed-examples">
+        <div>
+          <label for="embed-example">Full dashboard</label>
+          <div class="copy-row">
+            <input id="embed-example" data-widget-view="all" data-embed-title="Vibe in the Open activity" readonly>
+            <button type="button" data-copy-target="embed-example">Copy</button>
+          </div>
+        </div>
+        <div>
+          <label for="embed-models">Model mix</label>
+          <div class="copy-row">
+            <input id="embed-models" data-widget-view="models" data-embed-title="Vibe in the Open model activity" readonly>
+            <button type="button" data-copy-target="embed-models">Copy</button>
+          </div>
+        </div>
+        <div>
+          <label for="embed-uptime">Measured uptime</label>
+          <div class="copy-row">
+            <input id="embed-uptime" data-widget-view="uptime" data-embed-title="Vibe in the Open measured uptime" readonly>
+            <button type="button" data-copy-target="embed-uptime">Copy</button>
+          </div>
         </div>
       </div>
-      <div>
-        <label for="embed-models">Model mix</label>
-        <div class="copy-row">
-          <input id="embed-models" readonly value="&lt;iframe src=&quot;./widget.html?view=models&amp;range=30&amp;theme=auto&quot; title=&quot;Vibe in the Open model activity&quot; loading=&quot;lazy&quot;&gt;&lt;/iframe&gt;">
-          <button type="button" data-copy-target="embed-models">Copy</button>
-        </div>
-      </div>
-      <div>
-        <label for="embed-uptime">Measured uptime</label>
-        <div class="copy-row">
-          <input id="embed-uptime" readonly value="&lt;iframe src=&quot;./widget.html?view=uptime&amp;range=30&amp;theme=auto&quot; title=&quot;Vibe in the Open measured uptime&quot; loading=&quot;lazy&quot;&gt;&lt;/iframe&gt;">
-          <button type="button" data-copy-target="embed-uptime">Copy</button>
-        </div>
-      </div>
+      <p class="view-list">Views: calendar, models, uptime, concurrency, agent-hours, parallelism, rhythm, cache, commits, cost, all.</p>
     </div>
-    <p class="view-list">Views: calendar, models, uptime, concurrency, agent-hours, parallelism, rhythm, cache, commits, cost, all.</p>
-  </aside>
+  </details>
   <script type="module" src="./widget.js"></script>
 </body>
 </html>

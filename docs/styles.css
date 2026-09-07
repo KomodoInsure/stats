@@ -182,6 +182,7 @@ details[open].panel > summary::after { content: "−"; }
 .cost-item strong { display: block; margin-top: .3rem; font-size: 1.35rem; }
 
 .data-disclosure { font-size: .82rem; }
+.series-legend + .data-disclosure { margin-top: 1rem; }
 .data-disclosure summary { cursor: pointer; color: var(--accent); }
 .table-wrap { width: 100%; min-width: 0; max-width: 100%; overflow-x: auto; margin-top: .5rem; }
 table { width: 100%; border-collapse: collapse; font-size: .76rem; }
@@ -190,9 +191,13 @@ th:first-child, td:first-child { text-align: left; }
 th { color: var(--muted); }
 
 .dashboard-footer { display: flex; flex-wrap: wrap; justify-content: space-between; gap: .6rem 1rem; padding: .85rem .15rem; color: var(--muted); font-size: .75rem; }
+.project-attribution { margin-left: auto; color: var(--accent); }
 .stale { color: var(--warning); font-weight: 750; }
 .embed-help { margin-top: 1rem; margin-bottom: 3rem; padding: 1rem; border-top: 1px solid var(--border); }
 .embed-examples { display: grid; gap: .8rem; margin-top: 1rem; }
+.embed-help > summary { cursor: pointer; color: var(--accent); font-size: .9rem; font-weight: 750; }
+.embed-body { margin-top: 1rem; }
+.embed-body > p:first-child { margin-top: 0; color: var(--muted); }
 .embed-examples label { display: inline-block; margin-bottom: .28rem; color: var(--muted); font-size: .78rem; font-weight: 700; }
 .copy-row { display: flex; gap: .5rem; }
 .copy-row input { flex: 1; min-width: 0; padding: .6rem; color: var(--text); background: var(--panel); border: 1px solid var(--border); border-radius: .55rem; }
