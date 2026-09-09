@@ -13,8 +13,8 @@
   },
   "organization": "Komodo",
   "timezone": "America/New_York",
-  "generatedAt": "2026-09-09T11:47:50.901Z",
-  "cutoff": "2026-09-09T11:47:50.901Z",
+  "generatedAt": "2026-09-09T12:46:31.312Z",
+  "cutoff": "2026-09-09T12:46:31.312Z",
   "periodStart": "2025-09-10",
   "periodEnd": "2026-09-09",
   "collectionStatus": "partial",
@@ -59,7 +59,7 @@
     },
     {
       "agent": "omp",
-      "state": "partial",
+      "state": "available",
       "tokens": "recorded",
       "work": "partial",
       "reasons": [
@@ -698829,7 +698829,7 @@
     },
     {
       "date": "2026-09-09",
-      "elapsedMs": 28070901,
+      "elapsedMs": 31591312,
       "usage": {
         "total": {
           "value": 143926320,
@@ -698918,7 +698918,7 @@
             "upstream-owned"
           ]
         },
-        "pricedRecords": 1078,
+        "pricedRecords": 1079,
         "unpricedRecords": 0,
         "pricedTokens": 143926320,
         "unpricedTokens": 0,
@@ -698940,7 +698940,7 @@
             "upstream-owned"
           ]
         },
-        "unknownRecords": 86,
+        "unknownRecords": 87,
         "includedRecords": 0
       },
       "usageRows": [
@@ -699147,7 +699147,7 @@
               "status": "recorded",
               "reasons": []
             },
-            "pricedRecords": 894,
+            "pricedRecords": 895,
             "unpricedRecords": 0,
             "pricedTokens": 121676021,
             "unpricedTokens": 0,
@@ -699161,7 +699161,7 @@
               "status": "unavailable",
               "reasons": []
             },
-            "unknownRecords": 5,
+            "unknownRecords": 6,
             "includedRecords": 0
           }
         },
@@ -699244,18 +699244,18 @@
       "work": {
         "work": {
           "value": {
-            "activeMs": 5597557,
-            "inferenceMs": 5597244,
-            "agentMs": 14183065,
+            "activeMs": 5901810,
+            "inferenceMs": 5901497,
+            "agentMs": 14487318,
             "parallelMs": 3662167,
             "histogram": [
               {
                 "agents": 0,
-                "elapsedMs": 1602443
+                "elapsedMs": 4089502
               },
               {
                 "agents": 1,
-                "elapsedMs": 1935390
+                "elapsedMs": 2239643
               },
               {
                 "agents": 2,
@@ -699286,7 +699286,7 @@
                 "elapsedMs": 30834
               }
             ],
-            "unavailableMs": 20870901
+            "unavailableMs": 21600000
           },
           "status": "partial",
           "reasons": [
@@ -699313,7 +699313,7 @@
                     "elapsedMs": 237114
                   }
                 ],
-                "unavailableMs": 24470901
+                "unavailableMs": 27991312
               },
               "status": "partial",
               "reasons": [
@@ -699335,18 +699335,18 @@
             "harness": "omp",
             "work": {
               "value": {
-                "activeMs": 5523795,
-                "inferenceMs": 5523795,
-                "agentMs": 13945951,
+                "activeMs": 5828048,
+                "inferenceMs": 5828048,
+                "agentMs": 14250204,
                 "parallelMs": 3529728,
                 "histogram": [
                   {
                     "agents": 0,
-                    "elapsedMs": 1676205
+                    "elapsedMs": 4163264
                   },
                   {
                     "agents": 1,
-                    "elapsedMs": 1994067
+                    "elapsedMs": 2298320
                   },
                   {
                     "agents": 2,
@@ -699377,7 +699377,7 @@
                     "elapsedMs": 30834
                   }
                 ],
-                "unavailableMs": 20870901
+                "unavailableMs": 21600000
               },
               "status": "partial",
               "reasons": [
@@ -700054,7 +700054,7 @@
         },
         {
           "start": "2026-09-09T11:00:00.000Z",
-          "elapsedMs": 2870901,
+          "elapsedMs": 3600000,
           "work": {
             "work": {
               "value": null,
@@ -700118,6 +700118,105 @@
               }
             ]
           }
+        },
+        {
+          "start": "2026-09-09T12:00:00.000Z",
+          "elapsedMs": 2791312,
+          "work": {
+            "work": {
+              "value": {
+                "activeMs": 304253,
+                "inferenceMs": 304253,
+                "agentMs": 304253,
+                "parallelMs": 0,
+                "histogram": [
+                  {
+                    "agents": 0,
+                    "elapsedMs": 2487059
+                  },
+                  {
+                    "agents": 1,
+                    "elapsedMs": 304253
+                  }
+                ],
+                "unavailableMs": 0
+              },
+              "status": "partial",
+              "reasons": [
+                "timing-unavailable",
+                "unattributed-session"
+              ]
+            },
+            "byHarness": [
+              {
+                "harness": "codex",
+                "work": {
+                  "value": null,
+                  "status": "unavailable",
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
+                }
+              },
+              {
+                "harness": "claude",
+                "work": {
+                  "value": null,
+                  "status": "unavailable",
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
+                }
+              },
+              {
+                "harness": "omp",
+                "work": {
+                  "value": {
+                    "activeMs": 304253,
+                    "inferenceMs": 304253,
+                    "agentMs": 304253,
+                    "parallelMs": 0,
+                    "histogram": [
+                      {
+                        "agents": 0,
+                        "elapsedMs": 2487059
+                      },
+                      {
+                        "agents": 1,
+                        "elapsedMs": 304253
+                      }
+                    ],
+                    "unavailableMs": 0
+                  },
+                  "status": "partial",
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
+                }
+              },
+              {
+                "harness": "opencode",
+                "work": {
+                  "value": null,
+                  "status": "unavailable",
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
+                }
+              },
+              {
+                "harness": "hermes",
+                "work": {
+                  "value": null,
+                  "status": "unavailable",
+                  "reasons": [
+                    "timing-unavailable",
+                    "unattributed-session"
+                  ]
+                }
+              }
+            ]
+          }
         }
       ],
       "commits": {
@@ -700151,7 +700250,7 @@
           {
             "harness": "omp",
             "included": {
-              "records": 1001,
+              "records": 1002,
               "knownTokens": 135862809,
               "unknownTotalRecords": 0
             },
