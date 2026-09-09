@@ -13,10 +13,10 @@
   },
   "organization": "Komodo",
   "timezone": "America/New_York",
-  "generatedAt": "2026-09-09T03:58:28.989Z",
-  "cutoff": "2026-09-09T03:58:28.989Z",
-  "periodStart": "2025-09-09",
-  "periodEnd": "2026-09-08",
+  "generatedAt": "2026-09-09T04:16:01.252Z",
+  "cutoff": "2026-09-09T04:16:01.252Z",
+  "periodStart": "2025-09-10",
+  "periodEnd": "2026-09-09",
   "collectionStatus": "partial",
   "sources": [
     {
@@ -122,1865 +122,6 @@
     }
   },
   "days": [
-    {
-      "date": "2025-09-09",
-      "elapsedMs": 86400000,
-      "usage": {
-        "total": {
-          "value": null,
-          "status": "unavailable",
-          "reasons": [
-            "parse-gap",
-            "unallocated-history",
-            "unattributed-session",
-            "upstream-owned"
-          ]
-        },
-        "uncachedInput": {
-          "value": null,
-          "status": "unavailable",
-          "reasons": [
-            "parse-gap",
-            "unallocated-history",
-            "unattributed-session",
-            "upstream-owned"
-          ]
-        },
-        "cacheRead": {
-          "value": null,
-          "status": "unavailable",
-          "reasons": [
-            "parse-gap",
-            "unallocated-history",
-            "unattributed-session",
-            "upstream-owned"
-          ]
-        },
-        "cacheWrite": {
-          "value": null,
-          "status": "unavailable",
-          "reasons": [
-            "parse-gap",
-            "unallocated-history",
-            "unattributed-session",
-            "upstream-owned"
-          ]
-        },
-        "output": {
-          "value": null,
-          "status": "unavailable",
-          "reasons": [
-            "parse-gap",
-            "unallocated-history",
-            "unattributed-session",
-            "upstream-owned"
-          ]
-        },
-        "reasoning": {
-          "value": null,
-          "status": "unavailable",
-          "reasons": [
-            "parse-gap",
-            "unallocated-history",
-            "unattributed-session",
-            "upstream-owned"
-          ]
-        },
-        "otherRecorded": {
-          "value": null,
-          "status": "unavailable",
-          "reasons": [
-            "parse-gap",
-            "unallocated-history",
-            "unattributed-session",
-            "upstream-owned"
-          ]
-        },
-        "cacheReadBasis": {
-          "value": null,
-          "status": "unavailable",
-          "reasons": [
-            "parse-gap",
-            "unallocated-history",
-            "unattributed-session",
-            "upstream-owned"
-          ]
-        }
-      },
-      "cost": {
-        "apiEquivalentUsd": {
-          "value": null,
-          "status": "unavailable",
-          "reasons": [
-            "parse-gap",
-            "unallocated-history",
-            "unattributed-session",
-            "upstream-owned"
-          ]
-        },
-        "pricedRecords": 0,
-        "unpricedRecords": 0,
-        "pricedTokens": 0,
-        "unpricedTokens": 0,
-        "sourceEstimatedUsd": {
-          "value": null,
-          "status": "unavailable",
-          "reasons": [
-            "parse-gap",
-            "unallocated-history",
-            "unattributed-session",
-            "upstream-owned"
-          ]
-        },
-        "providerReportedUsd": {
-          "value": null,
-          "status": "unavailable",
-          "reasons": [
-            "parse-gap",
-            "unallocated-history",
-            "unattributed-session",
-            "upstream-owned"
-          ]
-        },
-        "unknownRecords": 0,
-        "includedRecords": 0
-      },
-      "usageRows": [],
-      "work": {
-        "work": {
-          "value": null,
-          "status": "unavailable",
-          "reasons": [
-            "parse-gap",
-            "timing-unavailable",
-            "unattributed-session"
-          ]
-        },
-        "byHarness": [
-          {
-            "harness": "codex",
-            "work": {
-              "value": null,
-              "status": "unavailable",
-              "reasons": [
-                "parse-gap",
-                "timing-unavailable"
-              ]
-            }
-          },
-          {
-            "harness": "claude",
-            "work": {
-              "value": null,
-              "status": "unavailable",
-              "reasons": [
-                "timing-unavailable"
-              ]
-            }
-          },
-          {
-            "harness": "omp",
-            "work": {
-              "value": null,
-              "status": "unavailable",
-              "reasons": [
-                "timing-unavailable"
-              ]
-            }
-          },
-          {
-            "harness": "opencode",
-            "work": {
-              "value": null,
-              "status": "unavailable",
-              "reasons": [
-                "timing-unavailable"
-              ]
-            }
-          },
-          {
-            "harness": "hermes",
-            "work": {
-              "value": null,
-              "status": "unavailable",
-              "reasons": [
-                "timing-unavailable",
-                "unattributed-session"
-              ]
-            }
-          }
-        ]
-      },
-      "hours": [
-        {
-          "start": "2025-09-09T04:00:00.000Z",
-          "elapsedMs": 3600000,
-          "work": {
-            "work": {
-              "value": null,
-              "status": "unavailable",
-              "reasons": [
-                "parse-gap",
-                "timing-unavailable",
-                "unattributed-session"
-              ]
-            },
-            "byHarness": [
-              {
-                "harness": "codex",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "parse-gap",
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "claude",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "omp",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "opencode",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "hermes",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable",
-                    "unattributed-session"
-                  ]
-                }
-              }
-            ]
-          }
-        },
-        {
-          "start": "2025-09-09T05:00:00.000Z",
-          "elapsedMs": 3600000,
-          "work": {
-            "work": {
-              "value": null,
-              "status": "unavailable",
-              "reasons": [
-                "parse-gap",
-                "timing-unavailable",
-                "unattributed-session"
-              ]
-            },
-            "byHarness": [
-              {
-                "harness": "codex",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "parse-gap",
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "claude",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "omp",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "opencode",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "hermes",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable",
-                    "unattributed-session"
-                  ]
-                }
-              }
-            ]
-          }
-        },
-        {
-          "start": "2025-09-09T06:00:00.000Z",
-          "elapsedMs": 3600000,
-          "work": {
-            "work": {
-              "value": null,
-              "status": "unavailable",
-              "reasons": [
-                "parse-gap",
-                "timing-unavailable",
-                "unattributed-session"
-              ]
-            },
-            "byHarness": [
-              {
-                "harness": "codex",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "parse-gap",
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "claude",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "omp",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "opencode",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "hermes",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable",
-                    "unattributed-session"
-                  ]
-                }
-              }
-            ]
-          }
-        },
-        {
-          "start": "2025-09-09T07:00:00.000Z",
-          "elapsedMs": 3600000,
-          "work": {
-            "work": {
-              "value": null,
-              "status": "unavailable",
-              "reasons": [
-                "parse-gap",
-                "timing-unavailable",
-                "unattributed-session"
-              ]
-            },
-            "byHarness": [
-              {
-                "harness": "codex",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "parse-gap",
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "claude",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "omp",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "opencode",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "hermes",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable",
-                    "unattributed-session"
-                  ]
-                }
-              }
-            ]
-          }
-        },
-        {
-          "start": "2025-09-09T08:00:00.000Z",
-          "elapsedMs": 3600000,
-          "work": {
-            "work": {
-              "value": null,
-              "status": "unavailable",
-              "reasons": [
-                "parse-gap",
-                "timing-unavailable",
-                "unattributed-session"
-              ]
-            },
-            "byHarness": [
-              {
-                "harness": "codex",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "parse-gap",
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "claude",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "omp",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "opencode",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "hermes",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable",
-                    "unattributed-session"
-                  ]
-                }
-              }
-            ]
-          }
-        },
-        {
-          "start": "2025-09-09T09:00:00.000Z",
-          "elapsedMs": 3600000,
-          "work": {
-            "work": {
-              "value": null,
-              "status": "unavailable",
-              "reasons": [
-                "parse-gap",
-                "timing-unavailable",
-                "unattributed-session"
-              ]
-            },
-            "byHarness": [
-              {
-                "harness": "codex",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "parse-gap",
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "claude",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "omp",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "opencode",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "hermes",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable",
-                    "unattributed-session"
-                  ]
-                }
-              }
-            ]
-          }
-        },
-        {
-          "start": "2025-09-09T10:00:00.000Z",
-          "elapsedMs": 3600000,
-          "work": {
-            "work": {
-              "value": null,
-              "status": "unavailable",
-              "reasons": [
-                "parse-gap",
-                "timing-unavailable",
-                "unattributed-session"
-              ]
-            },
-            "byHarness": [
-              {
-                "harness": "codex",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "parse-gap",
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "claude",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "omp",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "opencode",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "hermes",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable",
-                    "unattributed-session"
-                  ]
-                }
-              }
-            ]
-          }
-        },
-        {
-          "start": "2025-09-09T11:00:00.000Z",
-          "elapsedMs": 3600000,
-          "work": {
-            "work": {
-              "value": null,
-              "status": "unavailable",
-              "reasons": [
-                "parse-gap",
-                "timing-unavailable",
-                "unattributed-session"
-              ]
-            },
-            "byHarness": [
-              {
-                "harness": "codex",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "parse-gap",
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "claude",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "omp",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "opencode",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "hermes",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable",
-                    "unattributed-session"
-                  ]
-                }
-              }
-            ]
-          }
-        },
-        {
-          "start": "2025-09-09T12:00:00.000Z",
-          "elapsedMs": 3600000,
-          "work": {
-            "work": {
-              "value": null,
-              "status": "unavailable",
-              "reasons": [
-                "parse-gap",
-                "timing-unavailable",
-                "unattributed-session"
-              ]
-            },
-            "byHarness": [
-              {
-                "harness": "codex",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "parse-gap",
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "claude",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "omp",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "opencode",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "hermes",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable",
-                    "unattributed-session"
-                  ]
-                }
-              }
-            ]
-          }
-        },
-        {
-          "start": "2025-09-09T13:00:00.000Z",
-          "elapsedMs": 3600000,
-          "work": {
-            "work": {
-              "value": null,
-              "status": "unavailable",
-              "reasons": [
-                "parse-gap",
-                "timing-unavailable",
-                "unattributed-session"
-              ]
-            },
-            "byHarness": [
-              {
-                "harness": "codex",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "parse-gap",
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "claude",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "omp",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "opencode",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "hermes",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable",
-                    "unattributed-session"
-                  ]
-                }
-              }
-            ]
-          }
-        },
-        {
-          "start": "2025-09-09T14:00:00.000Z",
-          "elapsedMs": 3600000,
-          "work": {
-            "work": {
-              "value": null,
-              "status": "unavailable",
-              "reasons": [
-                "parse-gap",
-                "timing-unavailable",
-                "unattributed-session"
-              ]
-            },
-            "byHarness": [
-              {
-                "harness": "codex",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "parse-gap",
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "claude",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "omp",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "opencode",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "hermes",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable",
-                    "unattributed-session"
-                  ]
-                }
-              }
-            ]
-          }
-        },
-        {
-          "start": "2025-09-09T15:00:00.000Z",
-          "elapsedMs": 3600000,
-          "work": {
-            "work": {
-              "value": null,
-              "status": "unavailable",
-              "reasons": [
-                "parse-gap",
-                "timing-unavailable",
-                "unattributed-session"
-              ]
-            },
-            "byHarness": [
-              {
-                "harness": "codex",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "parse-gap",
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "claude",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "omp",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "opencode",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "hermes",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable",
-                    "unattributed-session"
-                  ]
-                }
-              }
-            ]
-          }
-        },
-        {
-          "start": "2025-09-09T16:00:00.000Z",
-          "elapsedMs": 3600000,
-          "work": {
-            "work": {
-              "value": null,
-              "status": "unavailable",
-              "reasons": [
-                "parse-gap",
-                "timing-unavailable",
-                "unattributed-session"
-              ]
-            },
-            "byHarness": [
-              {
-                "harness": "codex",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "parse-gap",
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "claude",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "omp",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "opencode",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "hermes",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable",
-                    "unattributed-session"
-                  ]
-                }
-              }
-            ]
-          }
-        },
-        {
-          "start": "2025-09-09T17:00:00.000Z",
-          "elapsedMs": 3600000,
-          "work": {
-            "work": {
-              "value": null,
-              "status": "unavailable",
-              "reasons": [
-                "parse-gap",
-                "timing-unavailable",
-                "unattributed-session"
-              ]
-            },
-            "byHarness": [
-              {
-                "harness": "codex",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "parse-gap",
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "claude",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "omp",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "opencode",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "hermes",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable",
-                    "unattributed-session"
-                  ]
-                }
-              }
-            ]
-          }
-        },
-        {
-          "start": "2025-09-09T18:00:00.000Z",
-          "elapsedMs": 3600000,
-          "work": {
-            "work": {
-              "value": null,
-              "status": "unavailable",
-              "reasons": [
-                "parse-gap",
-                "timing-unavailable",
-                "unattributed-session"
-              ]
-            },
-            "byHarness": [
-              {
-                "harness": "codex",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "parse-gap",
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "claude",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "omp",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "opencode",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "hermes",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable",
-                    "unattributed-session"
-                  ]
-                }
-              }
-            ]
-          }
-        },
-        {
-          "start": "2025-09-09T19:00:00.000Z",
-          "elapsedMs": 3600000,
-          "work": {
-            "work": {
-              "value": null,
-              "status": "unavailable",
-              "reasons": [
-                "parse-gap",
-                "timing-unavailable",
-                "unattributed-session"
-              ]
-            },
-            "byHarness": [
-              {
-                "harness": "codex",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "parse-gap",
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "claude",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "omp",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "opencode",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "hermes",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable",
-                    "unattributed-session"
-                  ]
-                }
-              }
-            ]
-          }
-        },
-        {
-          "start": "2025-09-09T20:00:00.000Z",
-          "elapsedMs": 3600000,
-          "work": {
-            "work": {
-              "value": null,
-              "status": "unavailable",
-              "reasons": [
-                "parse-gap",
-                "timing-unavailable",
-                "unattributed-session"
-              ]
-            },
-            "byHarness": [
-              {
-                "harness": "codex",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "parse-gap",
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "claude",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "omp",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "opencode",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "hermes",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable",
-                    "unattributed-session"
-                  ]
-                }
-              }
-            ]
-          }
-        },
-        {
-          "start": "2025-09-09T21:00:00.000Z",
-          "elapsedMs": 3600000,
-          "work": {
-            "work": {
-              "value": null,
-              "status": "unavailable",
-              "reasons": [
-                "parse-gap",
-                "timing-unavailable",
-                "unattributed-session"
-              ]
-            },
-            "byHarness": [
-              {
-                "harness": "codex",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "parse-gap",
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "claude",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "omp",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "opencode",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "hermes",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable",
-                    "unattributed-session"
-                  ]
-                }
-              }
-            ]
-          }
-        },
-        {
-          "start": "2025-09-09T22:00:00.000Z",
-          "elapsedMs": 3600000,
-          "work": {
-            "work": {
-              "value": null,
-              "status": "unavailable",
-              "reasons": [
-                "parse-gap",
-                "timing-unavailable",
-                "unattributed-session"
-              ]
-            },
-            "byHarness": [
-              {
-                "harness": "codex",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "parse-gap",
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "claude",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "omp",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "opencode",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "hermes",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable",
-                    "unattributed-session"
-                  ]
-                }
-              }
-            ]
-          }
-        },
-        {
-          "start": "2025-09-09T23:00:00.000Z",
-          "elapsedMs": 3600000,
-          "work": {
-            "work": {
-              "value": null,
-              "status": "unavailable",
-              "reasons": [
-                "parse-gap",
-                "timing-unavailable",
-                "unattributed-session"
-              ]
-            },
-            "byHarness": [
-              {
-                "harness": "codex",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "parse-gap",
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "claude",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "omp",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "opencode",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "hermes",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable",
-                    "unattributed-session"
-                  ]
-                }
-              }
-            ]
-          }
-        },
-        {
-          "start": "2025-09-10T00:00:00.000Z",
-          "elapsedMs": 3600000,
-          "work": {
-            "work": {
-              "value": null,
-              "status": "unavailable",
-              "reasons": [
-                "parse-gap",
-                "timing-unavailable",
-                "unattributed-session"
-              ]
-            },
-            "byHarness": [
-              {
-                "harness": "codex",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "parse-gap",
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "claude",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "omp",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "opencode",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "hermes",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable",
-                    "unattributed-session"
-                  ]
-                }
-              }
-            ]
-          }
-        },
-        {
-          "start": "2025-09-10T01:00:00.000Z",
-          "elapsedMs": 3600000,
-          "work": {
-            "work": {
-              "value": null,
-              "status": "unavailable",
-              "reasons": [
-                "parse-gap",
-                "timing-unavailable",
-                "unattributed-session"
-              ]
-            },
-            "byHarness": [
-              {
-                "harness": "codex",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "parse-gap",
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "claude",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "omp",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "opencode",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "hermes",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable",
-                    "unattributed-session"
-                  ]
-                }
-              }
-            ]
-          }
-        },
-        {
-          "start": "2025-09-10T02:00:00.000Z",
-          "elapsedMs": 3600000,
-          "work": {
-            "work": {
-              "value": null,
-              "status": "unavailable",
-              "reasons": [
-                "parse-gap",
-                "timing-unavailable",
-                "unattributed-session"
-              ]
-            },
-            "byHarness": [
-              {
-                "harness": "codex",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "parse-gap",
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "claude",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "omp",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "opencode",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "hermes",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable",
-                    "unattributed-session"
-                  ]
-                }
-              }
-            ]
-          }
-        },
-        {
-          "start": "2025-09-10T03:00:00.000Z",
-          "elapsedMs": 3600000,
-          "work": {
-            "work": {
-              "value": null,
-              "status": "unavailable",
-              "reasons": [
-                "parse-gap",
-                "timing-unavailable",
-                "unattributed-session"
-              ]
-            },
-            "byHarness": [
-              {
-                "harness": "codex",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "parse-gap",
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "claude",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "omp",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "opencode",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable"
-                  ]
-                }
-              },
-              {
-                "harness": "hermes",
-                "work": {
-                  "value": null,
-                  "status": "unavailable",
-                  "reasons": [
-                    "timing-unavailable",
-                    "unattributed-session"
-                  ]
-                }
-              }
-            ]
-          }
-        }
-      ],
-      "commits": {
-        "value": 0,
-        "status": "partial",
-        "reasons": [
-          "missing-source",
-          "stale-ref"
-        ]
-      },
-      "scope": {
-        "byHarness": []
-      }
-    },
     {
       "date": "2025-09-10",
       "elapsedMs": 86400000,
@@ -720199,10 +718340,10 @@
     },
     {
       "date": "2026-09-08",
-      "elapsedMs": 86308989,
+      "elapsedMs": 86400000,
       "usage": {
         "total": {
-          "value": 954430988,
+          "value": 972090609,
           "status": "partial",
           "reasons": [
             "parse-gap",
@@ -720212,7 +718353,7 @@
           ]
         },
         "uncachedInput": {
-          "value": 28819200,
+          "value": 29179933,
           "status": "partial",
           "reasons": [
             "parse-gap",
@@ -720222,7 +718363,7 @@
           ]
         },
         "cacheRead": {
-          "value": 922685603,
+          "value": 939948195,
           "status": "partial",
           "reasons": [
             "parse-gap",
@@ -720242,7 +718383,7 @@
           ]
         },
         "output": {
-          "value": 2373171,
+          "value": 2409467,
           "status": "partial",
           "reasons": [
             "parse-gap",
@@ -720252,7 +718393,7 @@
           ]
         },
         "reasoning": {
-          "value": 967499,
+          "value": 980120,
           "status": "partial",
           "reasons": [
             "parse-gap",
@@ -720273,8 +718414,8 @@
         },
         "cacheReadBasis": {
           "value": {
-            "readTokens": 922685603,
-            "promptTokens": 952057817
+            "readTokens": 939948195,
+            "promptTokens": 969681142
           },
           "status": "partial",
           "reasons": [
@@ -720287,7 +718428,7 @@
       },
       "cost": {
         "apiEquivalentUsd": {
-          "value": 555.0962801600004,
+          "value": 564.5136629600003,
           "status": "partial",
           "reasons": [
             "parse-gap",
@@ -720296,12 +718437,12 @@
             "upstream-owned"
           ]
         },
-        "pricedRecords": 8014,
+        "pricedRecords": 8134,
         "unpricedRecords": 0,
-        "pricedTokens": 954430988,
+        "pricedTokens": 972090609,
         "unpricedTokens": 0,
         "sourceEstimatedUsd": {
-          "value": 548.496076,
+          "value": 557.913451,
           "status": "partial",
           "reasons": [
             "parse-gap",
@@ -720742,17 +718883,17 @@
           "model": "gpt-5.6-sol",
           "usage": {
             "total": {
-              "value": 909188694,
+              "value": 926527766,
               "status": "recorded",
               "reasons": []
             },
             "uncachedInput": {
-              "value": 25471188,
+              "value": 25821867,
               "status": "recorded",
               "reasons": []
             },
             "cacheRead": {
-              "value": 881587584,
+              "value": 898542976,
               "status": "recorded",
               "reasons": []
             },
@@ -720762,12 +718903,12 @@
               "reasons": []
             },
             "output": {
-              "value": 2129922,
+              "value": 2162923,
               "status": "recorded",
               "reasons": []
             },
             "reasoning": {
-              "value": 892840,
+              "value": 904404,
               "status": "partial",
               "reasons": [
                 "parse-gap"
@@ -720780,8 +718921,8 @@
             },
             "cacheReadBasis": {
               "value": {
-                "readTokens": 881587584,
-                "promptTokens": 907058772
+                "readTokens": 898542976,
+                "promptTokens": 924364843
               },
               "status": "recorded",
               "reasons": []
@@ -720789,16 +718930,16 @@
           },
           "cost": {
             "apiEquivalentUsd": {
-              "value": 497.1182255999999,
+              "value": 505.9631184,
               "status": "recorded",
               "reasons": []
             },
-            "pricedRecords": 7432,
+            "pricedRecords": 7550,
             "unpricedRecords": 0,
-            "pricedTokens": 909188694,
+            "pricedTokens": 926527766,
             "unpricedTokens": 0,
             "sourceEstimatedUsd": {
-              "value": 497.118253,
+              "value": 505.963138,
               "status": "partial",
               "reasons": []
             },
@@ -720817,17 +718958,17 @@
           "model": "gpt-6-astra",
           "usage": {
             "total": {
-              "value": 26478803,
+              "value": 26799352,
               "status": "recorded",
               "reasons": []
             },
             "uncachedInput": {
-              "value": 1772394,
+              "value": 1782448,
               "status": "recorded",
               "reasons": []
             },
             "cacheRead": {
-              "value": 24563712,
+              "value": 24870912,
               "status": "recorded",
               "reasons": []
             },
@@ -720837,12 +718978,12 @@
               "reasons": []
             },
             "output": {
-              "value": 142697,
+              "value": 145992,
               "status": "recorded",
               "reasons": []
             },
             "reasoning": {
-              "value": 33263,
+              "value": 34320,
               "status": "partial",
               "reasons": [
                 "parse-gap"
@@ -720855,8 +718996,8 @@
             },
             "cacheReadBasis": {
               "value": {
-                "readTokens": 24563712,
-                "promptTokens": 26336106
+                "readTokens": 24870912,
+                "promptTokens": 26653360
               },
               "status": "recorded",
               "reasons": []
@@ -720864,16 +719005,16 @@
           },
           "cost": {
             "apiEquivalentUsd": {
-              "value": 49.42250199999999,
+              "value": 49.99499199999998,
               "status": "recorded",
               "reasons": []
             },
-            "pricedRecords": 303,
+            "pricedRecords": 305,
             "unpricedRecords": 0,
-            "pricedTokens": 26478803,
+            "pricedTokens": 26799352,
             "unpricedTokens": 0,
             "sourceEstimatedUsd": {
-              "value": 49.422502,
+              "value": 49.994992,
               "status": "partial",
               "reasons": []
             },
@@ -720890,38 +719031,38 @@
       "work": {
         "work": {
           "value": {
-            "activeMs": 51845065,
-            "inferenceMs": 51844792,
-            "agentMs": 112935817,
-            "parallelMs": 30249591,
+            "activeMs": 52389648,
+            "inferenceMs": 52389375,
+            "agentMs": 114591412,
+            "parallelMs": 30959448,
             "histogram": [
               {
                 "agents": 0,
-                "elapsedMs": 20063924
+                "elapsedMs": 19610352
               },
               {
                 "agents": 1,
-                "elapsedMs": 21595474
+                "elapsedMs": 21430200
               },
               {
                 "agents": 2,
-                "elapsedMs": 13948732
+                "elapsedMs": 14370032
               },
               {
                 "agents": 3,
-                "elapsedMs": 7892883
+                "elapsedMs": 8075447
               },
               {
                 "agents": 4,
-                "elapsedMs": 4673977
+                "elapsedMs": 4777501
               },
               {
                 "agents": 5,
-                "elapsedMs": 2202354
+                "elapsedMs": 2200687
               },
               {
                 "agents": 6,
-                "elapsedMs": 1009423
+                "elapsedMs": 1013559
               },
               {
                 "agents": 7,
@@ -720965,7 +719106,7 @@
                 "histogram": [
                   {
                     "agents": 0,
-                    "elapsedMs": 27518704
+                    "elapsedMs": 27609715
                   },
                   {
                     "agents": 1,
@@ -720999,38 +719140,38 @@
             "harness": "omp",
             "work": {
               "value": {
-                "activeMs": 51694406,
-                "inferenceMs": 51694406,
-                "agentMs": 111710849,
-                "parallelMs": 29961021,
+                "activeMs": 52238989,
+                "inferenceMs": 52238989,
+                "agentMs": 113366444,
+                "parallelMs": 30670952,
                 "histogram": [
                   {
                     "agents": 0,
-                    "elapsedMs": 20214583
+                    "elapsedMs": 19761011
                   },
                   {
                     "agents": 1,
-                    "elapsedMs": 21733385
+                    "elapsedMs": 21568037
                   },
                   {
                     "agents": 2,
-                    "elapsedMs": 13937138
+                    "elapsedMs": 14356437
                   },
                   {
                     "agents": 3,
-                    "elapsedMs": 7862088
+                    "elapsedMs": 8047284
                   },
                   {
                     "agents": 4,
-                    "elapsedMs": 4630863
+                    "elapsedMs": 4735422
                   },
                   {
                     "agents": 5,
-                    "elapsedMs": 2046232
+                    "elapsedMs": 2042973
                   },
                   {
                     "agents": 6,
-                    "elapsedMs": 970141
+                    "elapsedMs": 974277
                   },
                   {
                     "agents": 7,
@@ -723621,30 +721762,30 @@
           "work": {
             "work": {
               "value": {
-                "activeMs": 2632688,
-                "inferenceMs": 2632684,
-                "agentMs": 6167740,
-                "parallelMs": 1525579,
+                "activeMs": 2817217,
+                "inferenceMs": 2817213,
+                "agentMs": 6493812,
+                "parallelMs": 1628138,
                 "histogram": [
                   {
                     "agents": 0,
-                    "elapsedMs": 967312
+                    "elapsedMs": 782783
                   },
                   {
                     "agents": 1,
-                    "elapsedMs": 1107109
+                    "elapsedMs": 1189079
                   },
                   {
                     "agents": 2,
-                    "elapsedMs": 598427
+                    "elapsedMs": 666007
                   },
                   {
                     "agents": 3,
-                    "elapsedMs": 266664
+                    "elapsedMs": 297638
                   },
                   {
                     "agents": 4,
-                    "elapsedMs": 374574
+                    "elapsedMs": 378579
                   },
                   {
                     "agents": 5,
@@ -723713,30 +721854,30 @@
                 "harness": "omp",
                 "work": {
                   "value": {
-                    "activeMs": 2611491,
-                    "inferenceMs": 2611491,
-                    "agentMs": 5992785,
-                    "parallelMs": 1498855,
+                    "activeMs": 2796020,
+                    "inferenceMs": 2796020,
+                    "agentMs": 6318857,
+                    "parallelMs": 1601414,
                     "histogram": [
                       {
                         "agents": 0,
-                        "elapsedMs": 988509
+                        "elapsedMs": 803980
                       },
                       {
                         "agents": 1,
-                        "elapsedMs": 1112636
+                        "elapsedMs": 1194606
                       },
                       {
                         "agents": 2,
-                        "elapsedMs": 595526
+                        "elapsedMs": 663106
                       },
                       {
                         "agents": 3,
-                        "elapsedMs": 272432
+                        "elapsedMs": 303406
                       },
                       {
                         "agents": 4,
-                        "elapsedMs": 398614
+                        "elapsedMs": 402619
                       },
                       {
                         "agents": 5,
@@ -723898,30 +722039,30 @@
           "work": {
             "work": {
               "value": {
-                "activeMs": 2663556,
-                "inferenceMs": 2663556,
-                "agentMs": 4897013,
-                "parallelMs": 1448845,
+                "activeMs": 2879496,
+                "inferenceMs": 2879496,
+                "agentMs": 5684890,
+                "parallelMs": 1871123,
                 "histogram": [
                   {
                     "agents": 0,
-                    "elapsedMs": 936444
+                    "elapsedMs": 720504
                   },
                   {
                     "agents": 1,
-                    "elapsedMs": 1214711
+                    "elapsedMs": 1008373
                   },
                   {
                     "agents": 2,
-                    "elapsedMs": 902221
+                    "elapsedMs": 1182486
                   },
                   {
                     "agents": 3,
-                    "elapsedMs": 339522
+                    "elapsedMs": 473889
                   },
                   {
                     "agents": 4,
-                    "elapsedMs": 178652
+                    "elapsedMs": 186298
                   },
                   {
                     "agents": 5,
@@ -723967,30 +722108,30 @@
                 "harness": "omp",
                 "work": {
                   "value": {
-                    "activeMs": 2663556,
-                    "inferenceMs": 2663556,
-                    "agentMs": 4897013,
-                    "parallelMs": 1448845,
+                    "activeMs": 2879496,
+                    "inferenceMs": 2879496,
+                    "agentMs": 5684890,
+                    "parallelMs": 1871123,
                     "histogram": [
                       {
                         "agents": 0,
-                        "elapsedMs": 936444
+                        "elapsedMs": 720504
                       },
                       {
                         "agents": 1,
-                        "elapsedMs": 1214711
+                        "elapsedMs": 1008373
                       },
                       {
                         "agents": 2,
-                        "elapsedMs": 902221
+                        "elapsedMs": 1182486
                       },
                       {
                         "agents": 3,
-                        "elapsedMs": 339522
+                        "elapsedMs": 473889
                       },
                       {
                         "agents": 4,
-                        "elapsedMs": 178652
+                        "elapsedMs": 186298
                       },
                       {
                         "agents": 5,
@@ -724035,42 +722176,42 @@
         },
         {
           "start": "2026-09-09T03:00:00.000Z",
-          "elapsedMs": 3508989,
+          "elapsedMs": 3600000,
           "work": {
             "work": {
               "value": {
-                "activeMs": 2256862,
-                "inferenceMs": 2256858,
-                "agentMs": 3801821,
-                "parallelMs": 746844,
+                "activeMs": 2400976,
+                "inferenceMs": 2400972,
+                "agentMs": 4343467,
+                "parallelMs": 931864,
                 "histogram": [
                   {
                     "agents": 0,
-                    "elapsedMs": 1252127
+                    "elapsedMs": 1199024
                   },
                   {
                     "agents": 1,
-                    "elapsedMs": 1510018
+                    "elapsedMs": 1469112
                   },
                   {
                     "agents": 2,
-                    "elapsedMs": 318490
+                    "elapsedMs": 391945
                   },
                   {
                     "agents": 3,
-                    "elapsedMs": 174022
+                    "elapsedMs": 191245
                   },
                   {
                     "agents": 4,
-                    "elapsedMs": 149281
+                    "elapsedMs": 241154
                   },
                   {
                     "agents": 5,
-                    "elapsedMs": 94673
+                    "elapsedMs": 93006
                   },
                   {
                     "agents": 6,
-                    "elapsedMs": 10378
+                    "elapsedMs": 14514
                   }
                 ],
                 "unavailableMs": 0
@@ -724094,7 +722235,7 @@
                     "histogram": [
                       {
                         "agents": 0,
-                        "elapsedMs": 3375162
+                        "elapsedMs": 3466173
                       },
                       {
                         "agents": 1,
@@ -724123,38 +722264,38 @@
                 "harness": "omp",
                 "work": {
                   "value": {
-                    "activeMs": 2233792,
-                    "inferenceMs": 2233792,
-                    "agentMs": 3667994,
-                    "parallelMs": 725400,
+                    "activeMs": 2377906,
+                    "inferenceMs": 2377906,
+                    "agentMs": 4209640,
+                    "parallelMs": 910494,
                     "histogram": [
                       {
                         "agents": 0,
-                        "elapsedMs": 1275197
+                        "elapsedMs": 1222094
                       },
                       {
                         "agents": 1,
-                        "elapsedMs": 1508392
+                        "elapsedMs": 1467412
                       },
                       {
                         "agents": 2,
-                        "elapsedMs": 338679
+                        "elapsedMs": 410133
                       },
                       {
                         "agents": 3,
-                        "elapsedMs": 153589
+                        "elapsedMs": 173444
                       },
                       {
                         "agents": 4,
-                        "elapsedMs": 152744
+                        "elapsedMs": 245652
                       },
                       {
                         "agents": 5,
-                        "elapsedMs": 71827
+                        "elapsedMs": 68568
                       },
                       {
                         "agents": 6,
-                        "elapsedMs": 8561
+                        "elapsedMs": 12697
                       }
                     ],
                     "unavailableMs": 0
@@ -724221,8 +722362,8 @@
           {
             "harness": "omp",
             "included": {
-              "records": 7792,
-              "knownTokens": 938420051,
+              "records": 7912,
+              "knownTokens": 956079672,
               "unknownTotalRecords": 0
             },
             "outOfScope": {
@@ -724246,6 +722387,700 @@
             "outOfScope": {
               "records": 8,
               "knownTokens": 3971907,
+              "unknownTotalRecords": 0
+            },
+            "unattributed": {
+              "records": 0,
+              "knownTokens": 0,
+              "unknownTotalRecords": 0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-09-09",
+      "elapsedMs": 961252,
+      "usage": {
+        "total": {
+          "value": 25206808,
+          "status": "partial",
+          "reasons": [
+            "parse-gap",
+            "unallocated-history",
+            "unattributed-session",
+            "upstream-owned"
+          ]
+        },
+        "uncachedInput": {
+          "value": 990958,
+          "status": "partial",
+          "reasons": [
+            "parse-gap",
+            "unallocated-history",
+            "unattributed-session",
+            "upstream-owned"
+          ]
+        },
+        "cacheRead": {
+          "value": 23710835,
+          "status": "partial",
+          "reasons": [
+            "parse-gap",
+            "unallocated-history",
+            "unattributed-session",
+            "upstream-owned"
+          ]
+        },
+        "cacheWrite": {
+          "value": 412797,
+          "status": "partial",
+          "reasons": [
+            "parse-gap",
+            "unallocated-history",
+            "unattributed-session",
+            "upstream-owned"
+          ]
+        },
+        "output": {
+          "value": 92218,
+          "status": "partial",
+          "reasons": [
+            "parse-gap",
+            "unallocated-history",
+            "unattributed-session",
+            "upstream-owned"
+          ]
+        },
+        "reasoning": {
+          "value": 34970,
+          "status": "partial",
+          "reasons": [
+            "parse-gap",
+            "unallocated-history",
+            "unattributed-session",
+            "upstream-owned"
+          ]
+        },
+        "otherRecorded": {
+          "value": 0,
+          "status": "partial",
+          "reasons": [
+            "parse-gap",
+            "unallocated-history",
+            "unattributed-session",
+            "upstream-owned"
+          ]
+        },
+        "cacheReadBasis": {
+          "value": {
+            "readTokens": 23710835,
+            "promptTokens": 25114590
+          },
+          "status": "partial",
+          "reasons": [
+            "parse-gap",
+            "unallocated-history",
+            "unattributed-session",
+            "upstream-owned"
+          ]
+        }
+      },
+      "cost": {
+        "apiEquivalentUsd": {
+          "value": 25.9014151,
+          "status": "partial",
+          "reasons": [
+            "parse-gap",
+            "unallocated-history",
+            "unattributed-session",
+            "upstream-owned"
+          ]
+        },
+        "pricedRecords": 192,
+        "unpricedRecords": 0,
+        "pricedTokens": 25206808,
+        "unpricedTokens": 0,
+        "sourceEstimatedUsd": {
+          "value": 25.901419,
+          "status": "partial",
+          "reasons": [
+            "parse-gap",
+            "unallocated-history",
+            "unattributed-session",
+            "upstream-owned"
+          ]
+        },
+        "providerReportedUsd": {
+          "value": null,
+          "status": "unavailable",
+          "reasons": [
+            "parse-gap",
+            "unallocated-history",
+            "unattributed-session",
+            "upstream-owned"
+          ]
+        },
+        "unknownRecords": 2,
+        "includedRecords": 0
+      },
+      "usageRows": [
+        {
+          "harness": "omp",
+          "provider": "openai",
+          "model": "gpt-5.6-terra",
+          "usage": {
+            "total": {
+              "value": 2160515,
+              "status": "recorded",
+              "reasons": []
+            },
+            "uncachedInput": {
+              "value": 84,
+              "status": "recorded",
+              "reasons": []
+            },
+            "cacheRead": {
+              "value": 1734003,
+              "status": "recorded",
+              "reasons": []
+            },
+            "cacheWrite": {
+              "value": 412797,
+              "status": "recorded",
+              "reasons": []
+            },
+            "output": {
+              "value": 13631,
+              "status": "recorded",
+              "reasons": []
+            },
+            "reasoning": {
+              "value": 3189,
+              "status": "recorded",
+              "reasons": []
+            },
+            "otherRecorded": {
+              "value": 0,
+              "status": "recorded",
+              "reasons": []
+            },
+            "cacheReadBasis": {
+              "value": {
+                "readTokens": 1734003,
+                "promptTokens": 2146884
+              },
+              "status": "recorded",
+              "reasons": []
+            }
+          },
+          "cost": {
+            "apiEquivalentUsd": {
+              "value": 1.5425331,
+              "status": "recorded",
+              "reasons": []
+            },
+            "pricedRecords": 28,
+            "unpricedRecords": 0,
+            "pricedTokens": 2160515,
+            "unpricedTokens": 0,
+            "sourceEstimatedUsd": {
+              "value": 1.542535,
+              "status": "recorded",
+              "reasons": []
+            },
+            "providerReportedUsd": {
+              "value": null,
+              "status": "unavailable",
+              "reasons": []
+            },
+            "unknownRecords": 0,
+            "includedRecords": 0
+          }
+        },
+        {
+          "harness": "omp",
+          "provider": "openai-codex",
+          "model": "gpt-5.6-sol",
+          "usage": {
+            "total": {
+              "value": 13113496,
+              "status": "recorded",
+              "reasons": []
+            },
+            "uncachedInput": {
+              "value": 494823,
+              "status": "recorded",
+              "reasons": []
+            },
+            "cacheRead": {
+              "value": 12587520,
+              "status": "recorded",
+              "reasons": []
+            },
+            "cacheWrite": {
+              "value": 0,
+              "status": "recorded",
+              "reasons": []
+            },
+            "output": {
+              "value": 31153,
+              "status": "recorded",
+              "reasons": []
+            },
+            "reasoning": {
+              "value": 15407,
+              "status": "partial",
+              "reasons": [
+                "parse-gap"
+              ]
+            },
+            "otherRecorded": {
+              "value": 0,
+              "status": "recorded",
+              "reasons": []
+            },
+            "cacheReadBasis": {
+              "value": {
+                "readTokens": 12587520,
+                "promptTokens": 13082343
+              },
+              "status": "recorded",
+              "reasons": []
+            }
+          },
+          "cost": {
+            "apiEquivalentUsd": {
+              "value": 7.637360000000001,
+              "status": "recorded",
+              "reasons": []
+            },
+            "pricedRecords": 101,
+            "unpricedRecords": 0,
+            "pricedTokens": 13113496,
+            "unpricedTokens": 0,
+            "sourceEstimatedUsd": {
+              "value": 7.637362,
+              "status": "recorded",
+              "reasons": []
+            },
+            "providerReportedUsd": {
+              "value": null,
+              "status": "unavailable",
+              "reasons": []
+            },
+            "unknownRecords": 0,
+            "includedRecords": 0
+          }
+        },
+        {
+          "harness": "omp",
+          "provider": "openai-codex",
+          "model": "gpt-6-astra",
+          "usage": {
+            "total": {
+              "value": 9932797,
+              "status": "recorded",
+              "reasons": []
+            },
+            "uncachedInput": {
+              "value": 496051,
+              "status": "recorded",
+              "reasons": []
+            },
+            "cacheRead": {
+              "value": 9389312,
+              "status": "recorded",
+              "reasons": []
+            },
+            "cacheWrite": {
+              "value": 0,
+              "status": "recorded",
+              "reasons": []
+            },
+            "output": {
+              "value": 47434,
+              "status": "recorded",
+              "reasons": []
+            },
+            "reasoning": {
+              "value": 16374,
+              "status": "partial",
+              "reasons": [
+                "parse-gap"
+              ]
+            },
+            "otherRecorded": {
+              "value": 0,
+              "status": "recorded",
+              "reasons": []
+            },
+            "cacheReadBasis": {
+              "value": {
+                "readTokens": 9389312,
+                "promptTokens": 9885363
+              },
+              "status": "recorded",
+              "reasons": []
+            }
+          },
+          "cost": {
+            "apiEquivalentUsd": {
+              "value": 16.721522,
+              "status": "recorded",
+              "reasons": []
+            },
+            "pricedRecords": 63,
+            "unpricedRecords": 0,
+            "pricedTokens": 9932797,
+            "unpricedTokens": 0,
+            "sourceEstimatedUsd": {
+              "value": 16.721522,
+              "status": "partial",
+              "reasons": []
+            },
+            "providerReportedUsd": {
+              "value": null,
+              "status": "unavailable",
+              "reasons": []
+            },
+            "unknownRecords": 2,
+            "includedRecords": 0
+          }
+        }
+      ],
+      "work": {
+        "work": {
+          "value": {
+            "activeMs": 914311,
+            "inferenceMs": 914311,
+            "agentMs": 3220179,
+            "parallelMs": 816755,
+            "histogram": [
+              {
+                "agents": 0,
+                "elapsedMs": 46941
+              },
+              {
+                "agents": 1,
+                "elapsedMs": 97556
+              },
+              {
+                "agents": 2,
+                "elapsedMs": 175292
+              },
+              {
+                "agents": 3,
+                "elapsedMs": 216908
+              },
+              {
+                "agents": 4,
+                "elapsedMs": 155223
+              },
+              {
+                "agents": 5,
+                "elapsedMs": 201556
+              },
+              {
+                "agents": 6,
+                "elapsedMs": 12623
+              },
+              {
+                "agents": 7,
+                "elapsedMs": 24319
+              },
+              {
+                "agents": 8,
+                "elapsedMs": 30834
+              }
+            ],
+            "unavailableMs": 0
+          },
+          "status": "partial",
+          "reasons": [
+            "parse-gap",
+            "timing-unavailable",
+            "unattributed-session"
+          ]
+        },
+        "byHarness": [
+          {
+            "harness": "codex",
+            "work": {
+              "value": null,
+              "status": "unavailable",
+              "reasons": [
+                "parse-gap",
+                "timing-unavailable"
+              ]
+            }
+          },
+          {
+            "harness": "claude",
+            "work": {
+              "value": null,
+              "status": "unavailable",
+              "reasons": [
+                "timing-unavailable"
+              ]
+            }
+          },
+          {
+            "harness": "omp",
+            "work": {
+              "value": {
+                "activeMs": 914311,
+                "inferenceMs": 914311,
+                "agentMs": 3220179,
+                "parallelMs": 816755,
+                "histogram": [
+                  {
+                    "agents": 0,
+                    "elapsedMs": 46941
+                  },
+                  {
+                    "agents": 1,
+                    "elapsedMs": 97556
+                  },
+                  {
+                    "agents": 2,
+                    "elapsedMs": 175292
+                  },
+                  {
+                    "agents": 3,
+                    "elapsedMs": 216908
+                  },
+                  {
+                    "agents": 4,
+                    "elapsedMs": 155223
+                  },
+                  {
+                    "agents": 5,
+                    "elapsedMs": 201556
+                  },
+                  {
+                    "agents": 6,
+                    "elapsedMs": 12623
+                  },
+                  {
+                    "agents": 7,
+                    "elapsedMs": 24319
+                  },
+                  {
+                    "agents": 8,
+                    "elapsedMs": 30834
+                  }
+                ],
+                "unavailableMs": 0
+              },
+              "status": "partial",
+              "reasons": [
+                "timing-unavailable"
+              ]
+            }
+          },
+          {
+            "harness": "opencode",
+            "work": {
+              "value": null,
+              "status": "unavailable",
+              "reasons": [
+                "timing-unavailable"
+              ]
+            }
+          },
+          {
+            "harness": "hermes",
+            "work": {
+              "value": null,
+              "status": "unavailable",
+              "reasons": [
+                "timing-unavailable",
+                "unattributed-session"
+              ]
+            }
+          }
+        ]
+      },
+      "hours": [
+        {
+          "start": "2026-09-09T04:00:00.000Z",
+          "elapsedMs": 961252,
+          "work": {
+            "work": {
+              "value": {
+                "activeMs": 914311,
+                "inferenceMs": 914311,
+                "agentMs": 3220179,
+                "parallelMs": 816755,
+                "histogram": [
+                  {
+                    "agents": 0,
+                    "elapsedMs": 46941
+                  },
+                  {
+                    "agents": 1,
+                    "elapsedMs": 97556
+                  },
+                  {
+                    "agents": 2,
+                    "elapsedMs": 175292
+                  },
+                  {
+                    "agents": 3,
+                    "elapsedMs": 216908
+                  },
+                  {
+                    "agents": 4,
+                    "elapsedMs": 155223
+                  },
+                  {
+                    "agents": 5,
+                    "elapsedMs": 201556
+                  },
+                  {
+                    "agents": 6,
+                    "elapsedMs": 12623
+                  },
+                  {
+                    "agents": 7,
+                    "elapsedMs": 24319
+                  },
+                  {
+                    "agents": 8,
+                    "elapsedMs": 30834
+                  }
+                ],
+                "unavailableMs": 0
+              },
+              "status": "partial",
+              "reasons": [
+                "parse-gap",
+                "timing-unavailable",
+                "unattributed-session"
+              ]
+            },
+            "byHarness": [
+              {
+                "harness": "codex",
+                "work": {
+                  "value": null,
+                  "status": "unavailable",
+                  "reasons": [
+                    "parse-gap",
+                    "timing-unavailable"
+                  ]
+                }
+              },
+              {
+                "harness": "claude",
+                "work": {
+                  "value": null,
+                  "status": "unavailable",
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
+                }
+              },
+              {
+                "harness": "omp",
+                "work": {
+                  "value": {
+                    "activeMs": 914311,
+                    "inferenceMs": 914311,
+                    "agentMs": 3220179,
+                    "parallelMs": 816755,
+                    "histogram": [
+                      {
+                        "agents": 0,
+                        "elapsedMs": 46941
+                      },
+                      {
+                        "agents": 1,
+                        "elapsedMs": 97556
+                      },
+                      {
+                        "agents": 2,
+                        "elapsedMs": 175292
+                      },
+                      {
+                        "agents": 3,
+                        "elapsedMs": 216908
+                      },
+                      {
+                        "agents": 4,
+                        "elapsedMs": 155223
+                      },
+                      {
+                        "agents": 5,
+                        "elapsedMs": 201556
+                      },
+                      {
+                        "agents": 6,
+                        "elapsedMs": 12623
+                      },
+                      {
+                        "agents": 7,
+                        "elapsedMs": 24319
+                      },
+                      {
+                        "agents": 8,
+                        "elapsedMs": 30834
+                      }
+                    ],
+                    "unavailableMs": 0
+                  },
+                  "status": "partial",
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
+                }
+              },
+              {
+                "harness": "opencode",
+                "work": {
+                  "value": null,
+                  "status": "unavailable",
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
+                }
+              },
+              {
+                "harness": "hermes",
+                "work": {
+                  "value": null,
+                  "status": "unavailable",
+                  "reasons": [
+                    "timing-unavailable",
+                    "unattributed-session"
+                  ]
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "commits": {
+        "value": 0,
+        "status": "partial",
+        "reasons": [
+          "missing-source",
+          "stale-ref"
+        ]
+      },
+      "scope": {
+        "byHarness": [
+          {
+            "harness": "omp",
+            "included": {
+              "records": 192,
+              "knownTokens": 25206808,
+              "unknownTotalRecords": 0
+            },
+            "outOfScope": {
+              "records": 0,
+              "knownTokens": 0,
               "unknownTotalRecords": 0
             },
             "unattributed": {
