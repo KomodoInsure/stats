@@ -132,7 +132,6 @@ details[open].panel > summary::after { content: "−"; }
 .input-status-partial { color: var(--warning); }
 .cadence-totals { margin: .8rem 0 0; font-weight: 700; font-variant-numeric: tabular-nums; }
 .cadence-coverage, .input-population { margin: .25rem 0 0; color: var(--muted); font-size: .82rem; font-variant-numeric: tabular-nums; }
-.input-explanation { margin-top: .9rem; color: var(--text); font-weight: 650; }
 .info-tip { position: relative; display: inline-flex; vertical-align: middle; }
 .info-trigger { display: inline-grid; width: 1.2rem; height: 1.2rem; min-height: 0; padding: 0; place-items: center; border-radius: 999px; color: var(--muted); font-size: .7rem; font-weight: 800; line-height: 1; }
 .info-content { position: fixed; z-index: 30; inset: auto 1rem 1rem auto; width: min(17rem, calc(100vw - 2rem)); padding: .55rem .65rem; visibility: hidden; opacity: 0; pointer-events: none; background: var(--text); color: var(--panel); border-radius: .48rem; box-shadow: var(--shadow); font-size: .75rem; font-weight: 450; line-height: 1.45; text-transform: none; letter-spacing: normal; transition: opacity .12s ease; }
