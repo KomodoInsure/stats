@@ -14,8 +14,8 @@
   },
   "organization": "Komodo",
   "timezone": "America/New_York",
-  "generatedAt": "2026-10-13T15:32:47.884Z",
-  "cutoff": "2026-10-13T15:32:47.884Z",
+  "generatedAt": "2026-10-13T15:48:28.848Z",
+  "cutoff": "2026-10-13T15:48:28.848Z",
   "periodStart": "2025-10-14",
   "periodEnd": "2026-10-13",
   "collectionStatus": "partial",
@@ -31,10 +31,12 @@
     },
     {
       "agent": "codex",
-      "state": "available",
+      "state": "partial",
       "tokens": "recorded",
       "work": "partial",
-      "reasons": []
+      "reasons": [
+        "timing-unavailable"
+      ]
     },
     {
       "agent": "git",
@@ -126,7 +128,7 @@
       "all": {
         "inputs": {
           "value": {
-            "inputs": 1079,
+            "inputs": 1080,
             "activeSessions": 174
           },
           "status": "partial",
@@ -157,7 +159,7 @@
           }
         },
         "excluded": {
-          "context": 25905,
+          "context": 25922,
           "replayed": 0,
           "unknownKind": 25,
           "subagent": 142,
@@ -189,7 +191,8 @@
               "status": "partial",
               "reasons": [
                 "input-history-incomplete",
-                "input-kind-unknown"
+                "input-kind-unknown",
+                "timing-unavailable"
               ]
             },
             "cadenceCoverage": {
@@ -215,7 +218,7 @@
           "group": {
             "inputs": {
               "value": {
-                "inputs": 611,
+                "inputs": 612,
                 "activeSessions": 125
               },
               "status": "partial",
@@ -241,7 +244,7 @@
               }
             },
             "excluded": {
-              "context": 25840,
+              "context": 25857,
               "replayed": 0,
               "unknownKind": 7,
               "subagent": 142,
@@ -369,7 +372,7 @@
       "all": {
         "inputs": {
           "value": {
-            "inputs": 5696,
+            "inputs": 5697,
             "activeSessions": 1586
           },
           "status": "partial",
@@ -400,7 +403,7 @@
           }
         },
         "excluded": {
-          "context": 30377,
+          "context": 30394,
           "replayed": 0,
           "unknownKind": 2975,
           "subagent": 224,
@@ -459,7 +462,7 @@
           "group": {
             "inputs": {
               "value": {
-                "inputs": 704,
+                "inputs": 705,
                 "activeSessions": 134
               },
               "status": "partial",
@@ -485,7 +488,7 @@
               }
             },
             "excluded": {
-              "context": 29502,
+              "context": 29519,
               "replayed": 0,
               "unknownKind": 16,
               "subagent": 165,
@@ -623,7 +626,7 @@
       "all": {
         "inputs": {
           "value": {
-            "inputs": 8653,
+            "inputs": 8654,
             "activeSessions": 2875
           },
           "status": "partial",
@@ -654,7 +657,7 @@
           }
         },
         "excluded": {
-          "context": 33704,
+          "context": 33721,
           "replayed": 0,
           "unknownKind": 12511,
           "subagent": 265,
@@ -713,7 +716,7 @@
           "group": {
             "inputs": {
               "value": {
-                "inputs": 732,
+                "inputs": 733,
                 "activeSessions": 140
               },
               "status": "partial",
@@ -739,7 +742,7 @@
               }
             },
             "excluded": {
-              "context": 32046,
+              "context": 32063,
               "replayed": 0,
               "unknownKind": 16,
               "subagent": 205,
@@ -881,7 +884,7 @@
       "all": {
         "inputs": {
           "value": {
-            "inputs": 8690,
+            "inputs": 8691,
             "activeSessions": 2881
           },
           "status": "partial",
@@ -912,7 +915,7 @@
           }
         },
         "excluded": {
-          "context": 33704,
+          "context": 33721,
           "replayed": 0,
           "unknownKind": 12512,
           "subagent": 265,
@@ -971,7 +974,7 @@
           "group": {
             "inputs": {
               "value": {
-                "inputs": 732,
+                "inputs": 733,
                 "activeSessions": 140
               },
               "status": "partial",
@@ -997,7 +1000,7 @@
               }
             },
             "excluded": {
-              "context": 32046,
+              "context": 32063,
               "replayed": 0,
               "unknownKind": 16,
               "subagent": 205,
@@ -570678,7 +570681,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -570823,7 +570828,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -572286,7 +572293,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -572800,7 +572809,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -572945,7 +572956,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -573094,7 +573107,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -573251,7 +573266,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -573491,7 +573508,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -573632,7 +573651,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -573777,7 +573798,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -573902,7 +573925,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -574013,7 +574038,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -574154,7 +574181,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -575014,7 +575043,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -575139,7 +575170,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -575684,7 +575717,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -575823,7 +575858,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -575954,7 +575991,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -576061,7 +576100,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -576160,7 +576201,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -576259,7 +576302,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -576358,7 +576403,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -576457,7 +576504,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -576572,7 +576621,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -577016,7 +577067,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -578647,7 +578700,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -578746,7 +578801,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -578845,7 +578902,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -582298,7 +582357,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -582397,7 +582458,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -582910,7 +582973,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -583171,7 +583236,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -583310,7 +583377,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -584050,7 +584119,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -584453,7 +584524,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -584586,7 +584659,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -584845,7 +584920,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -585733,7 +585810,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -585886,7 +585965,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -586043,7 +586124,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -586994,7 +587077,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -587131,7 +587216,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -587532,7 +587619,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -588477,7 +588566,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -589752,7 +589843,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -589851,7 +589944,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -590104,7 +590199,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -590219,7 +590316,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -590326,7 +590425,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -592854,7 +592955,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -592953,7 +593056,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -593052,7 +593157,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -594396,7 +594503,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -598420,7 +598529,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -598527,7 +598638,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -598658,7 +598771,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -598781,7 +598896,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -598896,7 +599013,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -599019,7 +599138,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -599134,7 +599255,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -599245,7 +599368,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -599366,7 +599491,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -599657,7 +599784,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -599766,7 +599895,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -599978,7 +600109,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -600794,7 +600927,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -600917,7 +601052,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -601040,7 +601177,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -601155,7 +601294,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -601262,7 +601403,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -601369,7 +601512,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -601468,7 +601613,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -601567,7 +601714,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -601694,7 +601843,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -601831,7 +601982,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -601948,7 +602101,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -602124,7 +602279,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -602223,7 +602380,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -602330,7 +602489,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -602437,7 +602598,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -602544,7 +602707,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -602712,7 +602877,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -602811,7 +602978,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -603575,7 +603744,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -603690,7 +603861,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -603797,7 +603970,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -603928,7 +604103,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -604051,7 +604228,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -604150,7 +604329,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -604510,7 +604691,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -604649,7 +604832,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -604772,7 +604957,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -604895,7 +605082,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -605018,7 +605207,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -605147,7 +605338,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -605296,7 +605489,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -605441,7 +605636,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -605773,7 +605970,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -605888,7 +606087,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -607317,7 +607518,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -607432,7 +607635,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -607531,7 +607736,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -607638,7 +607845,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -607767,7 +607976,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -607878,7 +608089,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -608007,7 +608220,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -608120,7 +608335,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -608231,7 +608448,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -608360,7 +608579,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -608483,7 +608704,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -608604,7 +608827,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -608715,7 +608940,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -608840,7 +609067,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -609662,7 +609891,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -609811,7 +610042,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -612811,7 +613044,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -612910,7 +613145,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -613362,7 +613599,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -613469,7 +613708,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -614107,7 +614348,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -614206,7 +614449,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -614796,7 +615041,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -614929,7 +615176,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -615046,7 +615295,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -615157,7 +615408,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -615377,7 +615630,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -615494,7 +615749,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -615706,7 +615963,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -615805,7 +616064,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -615904,7 +616165,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -616234,7 +616497,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -616971,7 +617236,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -617104,7 +617371,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -617221,7 +617490,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -617742,7 +618013,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -617857,7 +618130,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -617964,7 +618239,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -618071,7 +618348,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -618186,7 +618465,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -618293,7 +618574,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -618408,7 +618691,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -618507,7 +618792,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -618606,7 +618893,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -618697,7 +618986,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -618796,7 +619087,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -618911,7 +619204,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -619002,7 +619297,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -619109,7 +619406,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -619216,7 +619515,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -620080,7 +620381,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -620187,7 +620490,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -620294,7 +620599,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -620807,7 +621114,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -620914,7 +621223,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -621021,7 +621332,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -621128,7 +621441,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -621235,7 +621550,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -621419,7 +621736,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -621534,7 +621853,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -621657,7 +621978,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -621764,7 +622087,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -622078,7 +622403,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -622185,7 +622512,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -622948,7 +623277,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -623055,7 +623386,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -623154,7 +623487,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -623253,7 +623588,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -623352,7 +623689,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -623662,7 +624001,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -623807,7 +624148,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -623964,7 +624307,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -624121,7 +624466,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -624282,7 +624629,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -624451,7 +624800,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -624582,7 +624933,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -624697,7 +625050,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -624820,7 +625175,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -624951,7 +625308,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -625058,7 +625417,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -625181,7 +625542,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -625288,7 +625651,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -625395,7 +625760,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -625510,7 +625877,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -625625,7 +625994,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -626248,7 +626619,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -626369,7 +626742,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -626486,7 +626861,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -626599,7 +626976,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -626978,7 +627357,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -627103,7 +627484,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -627224,7 +627607,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -627331,7 +627716,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -627438,7 +627825,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -627545,7 +627934,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -627729,7 +628120,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -627844,7 +628237,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -627959,7 +628354,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -628066,7 +628463,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -628173,7 +628572,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -628280,7 +628681,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -628371,7 +628774,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -628462,7 +628867,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -628561,7 +628968,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -629108,7 +629517,9 @@
                 "unavailableMs": 0
               },
               "status": "partial",
-              "reasons": []
+              "reasons": [
+                "timing-unavailable"
+              ]
             }
           },
           {
@@ -629199,7 +629610,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -629290,7 +629703,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -629381,7 +629796,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -629472,7 +629889,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -629563,7 +629982,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -629654,7 +630075,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -629745,7 +630168,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -629836,7 +630261,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -629927,7 +630354,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -630026,7 +630455,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -630125,7 +630556,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -630216,7 +630649,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -630307,7 +630742,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -630398,7 +630835,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -630489,7 +630928,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -630580,7 +631021,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -630671,7 +631114,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -630762,7 +631207,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -630853,7 +631300,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -630944,7 +631393,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -631035,7 +631486,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -631126,7 +631579,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -631217,7 +631672,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -631308,7 +631765,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -631689,7 +632148,9 @@
                 "unavailableMs": 0
               },
               "status": "partial",
-              "reasons": []
+              "reasons": [
+                "timing-unavailable"
+              ]
             }
           },
           {
@@ -631780,7 +632241,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -631871,7 +632334,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -631962,7 +632427,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -632053,7 +632520,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -632144,7 +632613,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -632235,7 +632706,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -632326,7 +632799,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -632449,7 +632924,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -632564,7 +633041,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -632663,7 +633142,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -632778,7 +633259,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -632893,7 +633376,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -633008,7 +633493,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -633123,7 +633610,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -633238,7 +633727,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -633345,7 +633836,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -633436,7 +633929,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -633527,7 +634022,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -633618,7 +634115,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -633709,7 +634208,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -633800,7 +634301,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -633891,7 +634394,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -633982,7 +634487,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -634073,7 +634580,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -634533,7 +635042,9 @@
                 "unavailableMs": 0
               },
               "status": "partial",
-              "reasons": []
+              "reasons": [
+                "timing-unavailable"
+              ]
             }
           },
           {
@@ -634656,7 +635167,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -634747,7 +635260,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -634838,7 +635353,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -634929,7 +635446,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -635020,7 +635539,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -635111,7 +635632,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -635202,7 +635725,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -635293,7 +635818,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -635384,7 +635911,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -635475,7 +636004,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -635614,7 +636145,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -635745,7 +636278,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -635892,7 +636427,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -636049,7 +636586,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -636190,7 +636729,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -636339,7 +636880,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -636480,7 +637023,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -636621,7 +637166,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -636754,7 +637301,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -636891,7 +637440,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -637020,7 +637571,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -637127,7 +637680,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -637226,7 +637781,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -637353,7 +637910,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -638027,7 +638586,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -638158,7 +638719,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -638675,7 +639238,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -638806,7 +639371,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -638929,7 +639496,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -639133,7 +639702,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -639256,7 +639827,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -639363,7 +639936,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -639490,7 +640065,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -639629,7 +640206,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -639768,7 +640347,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -641856,7 +642437,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -641987,7 +642570,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -642140,7 +642725,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -642638,7 +643225,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -642753,7 +643342,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -642852,7 +643443,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -643238,7 +643831,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -644341,7 +644936,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -644500,7 +645097,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -646314,7 +646913,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -646441,7 +647042,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -646568,7 +647171,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -646695,7 +647300,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -646947,7 +647554,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -647102,7 +647711,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -648339,7 +648950,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -648454,7 +649067,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -648905,7 +649520,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -649044,7 +649661,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -649321,7 +649940,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -649448,7 +650069,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -649599,7 +650222,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -649746,7 +650371,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -649873,7 +650500,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -650353,7 +650982,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -651407,7 +652038,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -651574,7 +652207,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -651733,7 +652368,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -651864,7 +652501,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -652348,7 +652987,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -652483,7 +653124,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -652626,7 +653269,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -652761,7 +653406,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -652876,7 +653523,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -652983,7 +653632,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -653098,7 +653749,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -653213,7 +653866,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -653320,7 +653975,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -653427,7 +654084,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -653550,7 +654209,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -653677,7 +654338,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -653776,7 +654439,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -653887,7 +654552,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -654026,7 +654693,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -654856,7 +655525,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -655055,7 +655726,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -655210,7 +655883,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -655317,7 +655992,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -655424,7 +656101,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -655523,7 +656202,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -655630,7 +656311,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -655737,7 +656420,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -655844,7 +656529,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -655951,7 +656638,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -656058,7 +656747,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -656157,7 +656848,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -656264,7 +656957,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -661953,7 +662648,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -662233,7 +662930,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -662662,7 +663361,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -662801,7 +663502,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -663049,7 +663752,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -663180,7 +663885,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -663319,7 +664026,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -663660,7 +664369,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -664861,7 +665572,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -665898,7 +666611,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -669057,7 +669772,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -670969,7 +671686,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -675419,7 +676138,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -675554,7 +676275,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -675685,7 +676408,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -675800,7 +676525,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -675915,7 +676642,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -676030,7 +676759,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -676520,7 +677251,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -676635,7 +677368,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -676750,7 +677485,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -676857,7 +677594,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -676956,7 +677695,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -677055,7 +677796,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -677154,7 +677897,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -679871,7 +680616,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -679970,7 +680717,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -680069,7 +680818,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -680168,7 +680919,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -681897,7 +682650,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -682004,7 +682759,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -682147,7 +682904,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -682322,7 +683081,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -682493,7 +683254,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -682640,7 +683403,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -682803,7 +683568,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -685891,7 +686658,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -686006,7 +686775,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -686157,7 +686928,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -686352,7 +687125,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -686547,7 +687322,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -686734,7 +687511,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -686917,7 +687696,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -687080,7 +687861,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -687231,7 +688014,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -687398,7 +688183,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -687565,7 +688352,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -687700,7 +688489,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -687896,7 +688687,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -688019,7 +688812,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -688146,7 +688941,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -689076,7 +689873,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -689839,7 +690638,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -689970,7 +690771,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -690113,7 +690916,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -690248,7 +691053,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -690383,7 +691190,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -690534,7 +691343,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -690681,7 +691492,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -690816,7 +691629,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -690935,7 +691750,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -691058,7 +691875,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -691412,7 +692231,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -691535,7 +692356,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -692349,7 +693172,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -692468,7 +693293,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -692575,7 +693402,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -692674,7 +693503,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -692773,7 +693604,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -692872,7 +693705,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -692971,7 +693806,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -693070,7 +693907,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -693177,7 +694016,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -693486,7 +694327,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -693613,7 +694456,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -693728,7 +694573,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -693835,7 +694682,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -693942,7 +694791,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -694049,7 +694900,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -694156,7 +695009,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -694612,7 +695467,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -695670,7 +696527,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -695805,7 +696664,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -695924,7 +696785,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -696023,7 +696886,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -696337,7 +697202,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -696585,7 +697452,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -696942,7 +697811,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -697089,7 +697960,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -697232,7 +698105,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -697371,7 +698246,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -697510,7 +698387,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -697641,7 +698520,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -697861,7 +698742,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -698008,7 +698891,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -698175,7 +699060,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -701029,7 +701916,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -701180,7 +702069,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -701319,7 +702210,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -701450,7 +702343,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -701573,7 +702468,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -703030,7 +703927,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -703177,7 +704076,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -703316,7 +704217,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -703483,7 +704386,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -703646,7 +704551,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -703777,7 +704684,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -704502,7 +705411,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -704741,7 +705652,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -704956,7 +705869,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -705127,7 +706042,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -705258,7 +706175,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -705385,7 +706304,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -705532,7 +706453,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -705703,7 +706626,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -705858,7 +706783,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -706045,7 +706972,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -706260,7 +707189,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -706439,7 +707370,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -707635,7 +708568,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -707750,7 +708685,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -707865,7 +708802,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -707972,7 +708911,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -708079,7 +709020,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -708178,7 +709121,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -708625,7 +709570,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -708780,7 +709727,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -709402,7 +710351,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -709577,7 +710528,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -709752,7 +710705,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -713921,7 +714876,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -714112,7 +715069,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -714299,7 +715258,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -714510,7 +715471,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -714701,7 +715664,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -714888,7 +715853,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -715260,7 +716227,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -715435,7 +716404,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -715852,7 +716823,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -715971,7 +716944,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -716118,7 +717093,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -717891,7 +718868,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -718046,7 +719025,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -718197,7 +719178,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -718850,7 +719833,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -719005,7 +719990,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -719232,7 +720219,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -731653,7 +732642,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -758466,7 +759457,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -758597,7 +759590,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -758752,7 +759747,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -759204,7 +760201,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -760953,7 +761952,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -761068,7 +762069,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -761861,7 +762864,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -764888,7 +765893,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -765140,7 +766147,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -765283,7 +766292,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -771637,7 +772648,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -771772,7 +772785,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -772057,7 +773072,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -772294,7 +773311,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -772470,7 +773489,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -772569,7 +773590,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -772660,7 +773683,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -772751,7 +773776,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -772842,7 +773869,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -772941,7 +773970,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -773688,7 +774719,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -773787,7 +774820,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -773902,7 +774937,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -774415,7 +775452,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -774514,7 +775553,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -774889,7 +775930,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -775410,7 +776453,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -777882,7 +778927,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -778915,7 +779962,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -784050,7 +785099,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -784287,7 +785338,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -784410,7 +785463,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -784517,7 +785572,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -784624,7 +785681,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -784723,7 +785782,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -785098,10 +786159,10 @@
     },
     {
       "date": "2026-10-13",
-      "elapsedMs": 41567884,
+      "elapsedMs": 42508848,
       "usage": {
         "total": {
-          "value": 433947187,
+          "value": 440223409,
           "status": "partial",
           "reasons": [
             "duplicate-ambiguity",
@@ -785112,7 +786173,7 @@
           ]
         },
         "uncachedInput": {
-          "value": 2615413,
+          "value": 2615451,
           "status": "partial",
           "reasons": [
             "duplicate-ambiguity",
@@ -785123,7 +786184,7 @@
           ]
         },
         "cacheRead": {
-          "value": 427318434,
+          "value": 433577032,
           "status": "partial",
           "reasons": [
             "duplicate-ambiguity",
@@ -785134,7 +786195,7 @@
           ]
         },
         "cacheWrite": {
-          "value": 3379671,
+          "value": 3389771,
           "status": "partial",
           "reasons": [
             "duplicate-ambiguity",
@@ -785145,7 +786206,7 @@
           ]
         },
         "output": {
-          "value": 633669,
+          "value": 641155,
           "status": "partial",
           "reasons": [
             "duplicate-ambiguity",
@@ -785156,7 +786217,7 @@
           ]
         },
         "reasoning": {
-          "value": 139066,
+          "value": 139667,
           "status": "partial",
           "reasons": [
             "duplicate-ambiguity",
@@ -785179,8 +786240,8 @@
         },
         "cacheReadBasis": {
           "value": {
-            "readTokens": 427318434,
-            "promptTokens": 433313518
+            "readTokens": 433577032,
+            "promptTokens": 439582254
           },
           "status": "partial",
           "reasons": [
@@ -785194,7 +786255,7 @@
       },
       "cost": {
         "apiEquivalentUsd": {
-          "value": 109.90582219999988,
+          "value": 111.35791379999986,
           "status": "partial",
           "reasons": [
             "duplicate-ambiguity",
@@ -785205,9 +786266,9 @@
             "upstream-owned"
           ]
         },
-        "pricedRecords": 1561,
+        "pricedRecords": 1579,
         "unpricedRecords": 133,
-        "pricedTokens": 426024255,
+        "pricedTokens": 432300477,
         "unpricedTokens": 7922932,
         "sourceEstimatedUsd": {
           "value": null,
@@ -785231,7 +786292,7 @@
             "upstream-owned"
           ]
         },
-        "unknownRecords": 1694,
+        "unknownRecords": 1712,
         "includedRecords": 0
       },
       "usageRows": [
@@ -785241,42 +786302,42 @@
           "model": "claude-opus-5-5",
           "usage": {
             "total": {
-              "value": 359328150,
+              "value": 365604372,
               "status": "partial",
               "reasons": [
                 "parse-gap"
               ]
             },
             "uncachedInput": {
-              "value": 1906,
+              "value": 1944,
               "status": "partial",
               "reasons": [
                 "parse-gap"
               ]
             },
             "cacheRead": {
-              "value": 355458082,
+              "value": 361716680,
               "status": "partial",
               "reasons": [
                 "parse-gap"
               ]
             },
             "cacheWrite": {
-              "value": 3379671,
+              "value": 3389771,
               "status": "partial",
               "reasons": [
                 "parse-gap"
               ]
             },
             "output": {
-              "value": 488491,
+              "value": 495977,
               "status": "partial",
               "reasons": [
                 "parse-gap"
               ]
             },
             "reasoning": {
-              "value": 105881,
+              "value": 106482,
               "status": "partial",
               "reasons": [
                 "parse-gap"
@@ -785291,8 +786352,8 @@
             },
             "cacheReadBasis": {
               "value": {
-                "readTokens": 355458082,
-                "promptTokens": 358839659
+                "readTokens": 361716680,
+                "promptTokens": 365108395
               },
               "status": "partial",
               "reasons": [
@@ -785302,15 +786363,15 @@
           },
           "cost": {
             "apiEquivalentUsd": {
-              "value": 97.76741539999999,
+              "value": 99.21950699999998,
               "status": "partial",
               "reasons": [
                 "parse-gap"
               ]
             },
-            "pricedRecords": 930,
+            "pricedRecords": 948,
             "unpricedRecords": 0,
-            "pricedTokens": 359328150,
+            "pricedTokens": 365604372,
             "unpricedTokens": 0,
             "sourceEstimatedUsd": {
               "value": null,
@@ -785326,7 +786387,7 @@
                 "parse-gap"
               ]
             },
-            "unknownRecords": 930,
+            "unknownRecords": 948,
             "includedRecords": 0
           }
         },
@@ -785489,7 +786550,7 @@
             "histogram": [
               {
                 "agents": 0,
-                "elapsedMs": 5501982
+                "elapsedMs": 6442946
               },
               {
                 "agents": 1,
@@ -785529,7 +786590,7 @@
                 "histogram": [
                   {
                     "agents": 0,
-                    "elapsedMs": 5501982
+                    "elapsedMs": 6442946
                   },
                   {
                     "agents": 1,
@@ -786297,7 +787358,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -786420,7 +787483,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -786470,7 +787535,7 @@
         },
         {
           "start": "2026-10-13T15:00:00.000Z",
-          "elapsedMs": 1967884,
+          "elapsedMs": 2908848,
           "work": {
             "work": {
               "value": {
@@ -786481,7 +787546,7 @@
                 "histogram": [
                   {
                     "agents": 0,
-                    "elapsedMs": 1434987
+                    "elapsedMs": 2375951
                   },
                   {
                     "agents": 1,
@@ -786513,7 +787578,7 @@
                     "histogram": [
                       {
                         "agents": 0,
-                        "elapsedMs": 1434987
+                        "elapsedMs": 2375951
                       },
                       {
                         "agents": 1,
@@ -786527,7 +787592,9 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
-                  "reasons": []
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
                 }
               },
               {
@@ -786577,7 +787644,7 @@
         }
       ],
       "commits": {
-        "value": 12,
+        "value": 17,
         "status": "partial",
         "reasons": [
           "missing-source"
@@ -786606,8 +787673,8 @@
           {
             "harness": "claude",
             "included": {
-              "records": 930,
-              "knownTokens": 359328150,
+              "records": 948,
+              "knownTokens": 365604372,
               "unknownTotalRecords": 0
             },
             "outOfScope": {
