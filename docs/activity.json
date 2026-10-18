@@ -14,8 +14,8 @@
   },
   "organization": "Komodo",
   "timezone": "America/New_York",
-  "generatedAt": "2026-10-18T08:55:19.390Z",
-  "cutoff": "2026-10-18T08:55:19.390Z",
+  "generatedAt": "2026-10-18T09:11:04.085Z",
+  "cutoff": "2026-10-18T09:11:04.085Z",
   "periodStart": "2025-10-19",
   "periodEnd": "2026-10-18",
   "collectionStatus": "partial",
@@ -128,7 +128,7 @@
       "all": {
         "inputs": {
           "value": {
-            "inputs": 1753,
+            "inputs": 1754,
             "activeSessions": 150
           },
           "status": "partial",
@@ -219,7 +219,7 @@
           "group": {
             "inputs": {
               "value": {
-                "inputs": 773,
+                "inputs": 774,
                 "activeSessions": 90
               },
               "status": "partial",
@@ -373,7 +373,7 @@
       "all": {
         "inputs": {
           "value": {
-            "inputs": 6213,
+            "inputs": 6214,
             "activeSessions": 1197
           },
           "status": "partial",
@@ -465,7 +465,7 @@
           "group": {
             "inputs": {
               "value": {
-                "inputs": 1356,
+                "inputs": 1357,
                 "activeSessions": 199
               },
               "status": "partial",
@@ -629,7 +629,7 @@
       "all": {
         "inputs": {
           "value": {
-            "inputs": 10020,
+            "inputs": 10021,
             "activeSessions": 2955
           },
           "status": "partial",
@@ -721,7 +721,7 @@
           "group": {
             "inputs": {
               "value": {
-                "inputs": 1384,
+                "inputs": 1385,
                 "activeSessions": 205
               },
               "status": "partial",
@@ -888,7 +888,7 @@
       "all": {
         "inputs": {
           "value": {
-            "inputs": 10121,
+            "inputs": 10122,
             "activeSessions": 2984
           },
           "status": "partial",
@@ -980,7 +980,7 @@
           "group": {
             "inputs": {
               "value": {
-                "inputs": 1384,
+                "inputs": 1385,
                 "activeSessions": 205
               },
               "status": "partial",
@@ -800611,7 +800611,7 @@
     },
     {
       "date": "2026-10-18",
-      "elapsedMs": 17719390,
+      "elapsedMs": 18664085,
       "usage": {
         "total": {
           "value": 121886036,
@@ -801192,7 +801192,77 @@
         },
         {
           "start": "2026-10-18T08:00:00.000Z",
-          "elapsedMs": 3319390,
+          "elapsedMs": 3600000,
+          "work": {
+            "work": {
+              "value": null,
+              "status": "unavailable",
+              "reasons": [
+                "parse-gap",
+                "timing-unavailable",
+                "unattributed-session"
+              ]
+            },
+            "byHarness": [
+              {
+                "harness": "codex",
+                "work": {
+                  "value": null,
+                  "status": "unavailable",
+                  "reasons": [
+                    "parse-gap",
+                    "timing-unavailable"
+                  ]
+                }
+              },
+              {
+                "harness": "claude",
+                "work": {
+                  "value": null,
+                  "status": "unavailable",
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
+                }
+              },
+              {
+                "harness": "omp",
+                "work": {
+                  "value": null,
+                  "status": "unavailable",
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
+                }
+              },
+              {
+                "harness": "opencode",
+                "work": {
+                  "value": null,
+                  "status": "unavailable",
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
+                }
+              },
+              {
+                "harness": "hermes",
+                "work": {
+                  "value": null,
+                  "status": "unavailable",
+                  "reasons": [
+                    "parse-gap",
+                    "timing-unavailable",
+                    "unattributed-session"
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        {
+          "start": "2026-10-18T09:00:00.000Z",
+          "elapsedMs": 664085,
           "work": {
             "work": {
               "value": null,
