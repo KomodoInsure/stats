@@ -14,8 +14,8 @@
   },
   "organization": "Komodo",
   "timezone": "America/New_York",
-  "generatedAt": "2026-10-18T23:55:48.290Z",
-  "cutoff": "2026-10-18T23:55:48.290Z",
+  "generatedAt": "2026-10-19T00:11:34.058Z",
+  "cutoff": "2026-10-19T00:11:34.058Z",
   "periodStart": "2025-10-19",
   "periodEnd": "2026-10-18",
   "collectionStatus": "partial",
@@ -788779,7 +788779,7 @@
     },
     {
       "date": "2026-10-18",
-      "elapsedMs": 71748290,
+      "elapsedMs": 72694058,
       "usage": {
         "total": {
           "value": 168898356,
@@ -790390,7 +790390,76 @@
         },
         {
           "start": "2026-10-18T23:00:00.000Z",
-          "elapsedMs": 3348290,
+          "elapsedMs": 3600000,
+          "work": {
+            "work": {
+              "value": null,
+              "status": "unavailable",
+              "reasons": [
+                "parse-gap",
+                "timing-unavailable",
+                "unattributed-session"
+              ]
+            },
+            "byHarness": [
+              {
+                "harness": "codex",
+                "work": {
+                  "value": null,
+                  "status": "unavailable",
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
+                }
+              },
+              {
+                "harness": "claude",
+                "work": {
+                  "value": null,
+                  "status": "unavailable",
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
+                }
+              },
+              {
+                "harness": "omp",
+                "work": {
+                  "value": null,
+                  "status": "unavailable",
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
+                }
+              },
+              {
+                "harness": "opencode",
+                "work": {
+                  "value": null,
+                  "status": "unavailable",
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
+                }
+              },
+              {
+                "harness": "hermes",
+                "work": {
+                  "value": null,
+                  "status": "unavailable",
+                  "reasons": [
+                    "parse-gap",
+                    "timing-unavailable",
+                    "unattributed-session"
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        {
+          "start": "2026-10-19T00:00:00.000Z",
+          "elapsedMs": 694058,
           "work": {
             "work": {
               "value": null,
