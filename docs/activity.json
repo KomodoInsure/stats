@@ -14,8 +14,8 @@
   },
   "organization": "Komodo",
   "timezone": "America/New_York",
-  "generatedAt": "2026-10-21T02:33:03.802Z",
-  "cutoff": "2026-10-21T02:33:03.802Z",
+  "generatedAt": "2026-10-21T02:48:43.707Z",
+  "cutoff": "2026-10-21T02:48:43.707Z",
   "periodStart": "2025-10-21",
   "periodEnd": "2026-10-20",
   "collectionStatus": "partial",
@@ -128,7 +128,7 @@
       "all": {
         "inputs": {
           "value": {
-            "inputs": 1077,
+            "inputs": 1079,
             "activeSessions": 100
           },
           "status": "partial",
@@ -140,8 +140,8 @@
         "cadence": {
           "value": {
             "sessions": 19,
-            "inputs": 245,
-            "recordedWorkMs": 29932254
+            "inputs": 247,
+            "recordedWorkMs": 30357756
           },
           "status": "partial",
           "reasons": [
@@ -258,7 +258,7 @@
           "group": {
             "inputs": {
               "value": {
-                "inputs": 37,
+                "inputs": 39,
                 "activeSessions": 6
               },
               "status": "partial",
@@ -270,8 +270,8 @@
             "cadence": {
               "value": {
                 "sessions": 5,
-                "inputs": 19,
-                "recordedWorkMs": 7739004
+                "inputs": 21,
+                "recordedWorkMs": 8164506
               },
               "status": "partial",
               "reasons": [
@@ -372,7 +372,7 @@
       "all": {
         "inputs": {
           "value": {
-            "inputs": 6065,
+            "inputs": 6067,
             "activeSessions": 1023
           },
           "status": "partial",
@@ -384,8 +384,8 @@
         "cadence": {
           "value": {
             "sessions": 692,
-            "inputs": 3498,
-            "recordedWorkMs": 814026906
+            "inputs": 3500,
+            "recordedWorkMs": 814452408
           },
           "status": "partial",
           "reasons": [
@@ -503,7 +503,7 @@
           "group": {
             "inputs": {
               "value": {
-                "inputs": 2016,
+                "inputs": 2018,
                 "activeSessions": 420
               },
               "status": "partial",
@@ -515,8 +515,8 @@
             "cadence": {
               "value": {
                 "sessions": 415,
-                "inputs": 1962,
-                "recordedWorkMs": 657028050
+                "inputs": 1964,
+                "recordedWorkMs": 657453552
               },
               "status": "partial",
               "reasons": [
@@ -627,7 +627,7 @@
       "all": {
         "inputs": {
           "value": {
-            "inputs": 10245,
+            "inputs": 10247,
             "activeSessions": 2966
           },
           "status": "partial",
@@ -639,8 +639,8 @@
         "cadence": {
           "value": {
             "sessions": 2513,
-            "inputs": 7211,
-            "recordedWorkMs": 2264009756
+            "inputs": 7213,
+            "recordedWorkMs": 2264435258
           },
           "status": "partial",
           "reasons": [
@@ -758,7 +758,7 @@
           "group": {
             "inputs": {
               "value": {
-                "inputs": 3610,
+                "inputs": 3612,
                 "activeSessions": 925
               },
               "status": "partial",
@@ -770,8 +770,8 @@
             "cadence": {
               "value": {
                 "sessions": 906,
-                "inputs": 3524,
-                "recordedWorkMs": 1178763893
+                "inputs": 3526,
+                "recordedWorkMs": 1179189395
               },
               "status": "partial",
               "reasons": [
@@ -885,7 +885,7 @@
       "all": {
         "inputs": {
           "value": {
-            "inputs": 10397,
+            "inputs": 10399,
             "activeSessions": 3011
           },
           "status": "partial",
@@ -897,8 +897,8 @@
         "cadence": {
           "value": {
             "sessions": 2550,
-            "inputs": 7326,
-            "recordedWorkMs": 2307408177
+            "inputs": 7328,
+            "recordedWorkMs": 2307833679
           },
           "status": "partial",
           "reasons": [
@@ -1016,7 +1016,7 @@
           "group": {
             "inputs": {
               "value": {
-                "inputs": 3610,
+                "inputs": 3612,
                 "activeSessions": 925
               },
               "status": "partial",
@@ -1028,8 +1028,8 @@
             "cadence": {
               "value": {
                 "sessions": 906,
-                "inputs": 3524,
-                "recordedWorkMs": 1178763893
+                "inputs": 3526,
+                "recordedWorkMs": 1179189395
               },
               "status": "partial",
               "reasons": [
@@ -801843,10 +801843,10 @@
     },
     {
       "date": "2026-10-20",
-      "elapsedMs": 81183802,
+      "elapsedMs": 82123707,
       "usage": {
         "total": {
-          "value": 1014372875,
+          "value": 1043748087,
           "status": "partial",
           "reasons": [
             "duplicate-ambiguity",
@@ -801857,7 +801857,7 @@
           ]
         },
         "uncachedInput": {
-          "value": 1534504,
+          "value": 1534622,
           "status": "partial",
           "reasons": [
             "duplicate-ambiguity",
@@ -801868,7 +801868,7 @@
           ]
         },
         "cacheRead": {
-          "value": 997564986,
+          "value": 1026850717,
           "status": "partial",
           "reasons": [
             "duplicate-ambiguity",
@@ -801879,7 +801879,7 @@
           ]
         },
         "cacheWrite": {
-          "value": 14134620,
+          "value": 14196742,
           "status": "partial",
           "reasons": [
             "duplicate-ambiguity",
@@ -801890,7 +801890,7 @@
           ]
         },
         "output": {
-          "value": 1138765,
+          "value": 1166006,
           "status": "partial",
           "reasons": [
             "duplicate-ambiguity",
@@ -801924,8 +801924,8 @@
         },
         "cacheReadBasis": {
           "value": {
-            "readTokens": 997564986,
-            "promptTokens": 1013234110
+            "readTokens": 1026850717,
+            "promptTokens": 1042582081
           },
           "status": "partial",
           "reasons": [
@@ -801939,7 +801939,7 @@
       },
       "cost": {
         "apiEquivalentUsd": {
-          "value": 294.8586957999998,
+          "value": 301.5717439999998,
           "status": "partial",
           "reasons": [
             "duplicate-ambiguity",
@@ -801950,12 +801950,12 @@
             "upstream-owned"
           ]
         },
-        "pricedRecords": 3985,
+        "pricedRecords": 4042,
         "unpricedRecords": 65,
-        "pricedTokens": 1011437904,
+        "pricedTokens": 1040813116,
         "unpricedTokens": 2934971,
         "sourceEstimatedUsd": {
-          "value": 38.418863,
+          "value": 45.13191,
           "status": "partial",
           "reasons": [
             "duplicate-ambiguity",
@@ -802375,35 +802375,35 @@
           "model": "claude-opus-5-5",
           "usage": {
             "total": {
-              "value": 104271254,
+              "value": 133646466,
               "status": "partial",
               "reasons": [
                 "duplicate-ambiguity"
               ]
             },
             "uncachedInput": {
-              "value": 734,
+              "value": 852,
               "status": "partial",
               "reasons": [
                 "duplicate-ambiguity"
               ]
             },
             "cacheRead": {
-              "value": 103499858,
+              "value": 132785589,
               "status": "partial",
               "reasons": [
                 "duplicate-ambiguity"
               ]
             },
             "cacheWrite": {
-              "value": 615727,
+              "value": 677849,
               "status": "partial",
               "reasons": [
                 "duplicate-ambiguity"
               ]
             },
             "output": {
-              "value": 154935,
+              "value": 182176,
               "status": "partial",
               "reasons": [
                 "duplicate-ambiguity"
@@ -802426,8 +802426,8 @@
             },
             "cacheReadBasis": {
               "value": {
-                "readTokens": 103499858,
-                "promptTokens": 104116319
+                "readTokens": 132785589,
+                "promptTokens": 133464290
               },
               "status": "partial",
               "reasons": [
@@ -802437,18 +802437,18 @@
           },
           "cost": {
             "apiEquivalentUsd": {
-              "value": 26.88024259999999,
+              "value": 33.59329079999999,
               "status": "partial",
               "reasons": [
                 "duplicate-ambiguity"
               ]
             },
-            "pricedRecords": 362,
+            "pricedRecords": 419,
             "unpricedRecords": 0,
-            "pricedTokens": 104271254,
+            "pricedTokens": 133646466,
             "unpricedTokens": 0,
             "sourceEstimatedUsd": {
-              "value": 26.880253,
+              "value": 33.5933,
               "status": "partial",
               "reasons": [
                 "duplicate-ambiguity"
@@ -802758,18 +802758,18 @@
       "work": {
         "work": {
           "value": {
-            "activeMs": 25384271,
-            "inferenceMs": 4782556,
-            "agentMs": 27145372,
+            "activeMs": 25809773,
+            "inferenceMs": 5208058,
+            "agentMs": 27570874,
             "parallelMs": 1570518,
             "histogram": [
               {
                 "agents": 0,
-                "elapsedMs": 16199531
+                "elapsedMs": 16713934
               },
               {
                 "agents": 1,
-                "elapsedMs": 23813753
+                "elapsedMs": 24239255
               },
               {
                 "agents": 2,
@@ -802816,7 +802816,7 @@
                     "elapsedMs": 23642
                   }
                 ],
-                "unavailableMs": 55983802
+                "unavailableMs": 56923707
               },
               "status": "partial",
               "reasons": [
@@ -802839,18 +802839,18 @@
             "harness": "omp",
             "work": {
               "value": {
-                "activeMs": 4353046,
-                "inferenceMs": 4353046,
-                "agentMs": 6090505,
+                "activeMs": 4778548,
+                "inferenceMs": 4778548,
+                "agentMs": 6516007,
                 "parallelMs": 1546876,
                 "histogram": [
                   {
                     "agents": 0,
-                    "elapsedMs": 15630756
+                    "elapsedMs": 16145159
                   },
                   {
                     "agents": 1,
-                    "elapsedMs": 2806170
+                    "elapsedMs": 3231672
                   },
                   {
                     "agents": 2,
@@ -804809,22 +804809,22 @@
         },
         {
           "start": "2026-10-21T02:00:00.000Z",
-          "elapsedMs": 1983802,
+          "elapsedMs": 2923707,
           "work": {
             "work": {
               "value": {
-                "activeMs": 138749,
-                "inferenceMs": 138749,
-                "agentMs": 138749,
+                "activeMs": 564251,
+                "inferenceMs": 564251,
+                "agentMs": 564251,
                 "parallelMs": 0,
                 "histogram": [
                   {
                     "agents": 0,
-                    "elapsedMs": 1845053
+                    "elapsedMs": 2359456
                   },
                   {
                     "agents": 1,
-                    "elapsedMs": 138749
+                    "elapsedMs": 564251
                   }
                 ],
                 "unavailableMs": 0
@@ -804862,18 +804862,18 @@
                 "harness": "omp",
                 "work": {
                   "value": {
-                    "activeMs": 138749,
-                    "inferenceMs": 138749,
-                    "agentMs": 138749,
+                    "activeMs": 564251,
+                    "inferenceMs": 564251,
+                    "agentMs": 564251,
                     "parallelMs": 0,
                     "histogram": [
                       {
                         "agents": 0,
-                        "elapsedMs": 1845053
+                        "elapsedMs": 2359456
                       },
                       {
                         "agents": 1,
-                        "elapsedMs": 138749
+                        "elapsedMs": 564251
                       }
                     ],
                     "unavailableMs": 0
@@ -804958,8 +804958,8 @@
           {
             "harness": "omp",
             "included": {
-              "records": 711,
-              "knownTokens": 131397603,
+              "records": 768,
+              "knownTokens": 160772815,
               "unknownTotalRecords": 0
             },
             "outOfScope": {
