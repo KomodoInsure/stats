@@ -14,8 +14,8 @@
   },
   "organization": "Komodo",
   "timezone": "America/New_York",
-  "generatedAt": "2026-10-24T16:56:15.984Z",
-  "cutoff": "2026-10-24T16:56:15.984Z",
+  "generatedAt": "2026-10-24T17:12:05.894Z",
+  "cutoff": "2026-10-24T17:12:05.894Z",
   "periodStart": "2025-10-25",
   "periodEnd": "2026-10-24",
   "collectionStatus": "partial",
@@ -805745,7 +805745,7 @@
     },
     {
       "date": "2026-10-24",
-      "elapsedMs": 46575984,
+      "elapsedMs": 47525894,
       "usage": {
         "total": {
           "value": 350096345,
@@ -806157,7 +806157,7 @@
             "histogram": [
               {
                 "agents": 0,
-                "elapsedMs": 4648330
+                "elapsedMs": 4872346
               },
               {
                 "agents": 1,
@@ -806172,7 +806172,7 @@
                 "elapsedMs": 13280
               }
             ],
-            "unavailableMs": 32400000
+            "unavailableMs": 33125894
           },
           "status": "partial",
           "reasons": [
@@ -806193,7 +806193,7 @@
                 "histogram": [
                   {
                     "agents": 0,
-                    "elapsedMs": 4648330
+                    "elapsedMs": 4872346
                   },
                   {
                     "agents": 1,
@@ -806208,7 +806208,7 @@
                     "elapsedMs": 13280
                   }
                 ],
-                "unavailableMs": 32400000
+                "unavailableMs": 33125894
               },
               "status": "partial",
               "reasons": [
@@ -807229,7 +807229,7 @@
         },
         {
           "start": "2026-10-24T16:00:00.000Z",
-          "elapsedMs": 3375984,
+          "elapsedMs": 3600000,
           "work": {
             "work": {
               "value": {
@@ -807240,7 +807240,7 @@
                 "histogram": [
                   {
                     "agents": 0,
-                    "elapsedMs": 3116804
+                    "elapsedMs": 3340820
                   },
                   {
                     "agents": 1,
@@ -807268,7 +807268,7 @@
                     "histogram": [
                       {
                         "agents": 0,
-                        "elapsedMs": 3116804
+                        "elapsedMs": 3340820
                       },
                       {
                         "agents": 1,
@@ -807280,6 +807280,76 @@
                   "status": "partial",
                   "reasons": [
                     "parse-gap"
+                  ]
+                }
+              },
+              {
+                "harness": "claude",
+                "work": {
+                  "value": null,
+                  "status": "unavailable",
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
+                }
+              },
+              {
+                "harness": "omp",
+                "work": {
+                  "value": null,
+                  "status": "unavailable",
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
+                }
+              },
+              {
+                "harness": "opencode",
+                "work": {
+                  "value": null,
+                  "status": "unavailable",
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
+                }
+              },
+              {
+                "harness": "hermes",
+                "work": {
+                  "value": null,
+                  "status": "unavailable",
+                  "reasons": [
+                    "parse-gap",
+                    "timing-unavailable",
+                    "unattributed-session"
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        {
+          "start": "2026-10-24T17:00:00.000Z",
+          "elapsedMs": 725894,
+          "work": {
+            "work": {
+              "value": null,
+              "status": "unavailable",
+              "reasons": [
+                "parse-gap",
+                "timing-unavailable",
+                "unattributed-session"
+              ]
+            },
+            "byHarness": [
+              {
+                "harness": "codex",
+                "work": {
+                  "value": null,
+                  "status": "unavailable",
+                  "reasons": [
+                    "parse-gap",
+                    "timing-unavailable"
                   ]
                 }
               },
