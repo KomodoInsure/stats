@@ -14,8 +14,8 @@
   },
   "organization": "Komodo",
   "timezone": "America/New_York",
-  "generatedAt": "2026-11-02T18:08:55.378Z",
-  "cutoff": "2026-11-02T18:08:55.378Z",
+  "generatedAt": "2026-11-02T18:28:18.191Z",
+  "cutoff": "2026-11-02T18:28:18.191Z",
   "periodStart": "2025-11-03",
   "periodEnd": "2026-11-02",
   "collectionStatus": "partial",
@@ -129,7 +129,7 @@
       "all": {
         "inputs": {
           "value": {
-            "inputs": 524,
+            "inputs": 525,
             "activeSessions": 47
           },
           "status": "partial",
@@ -221,7 +221,7 @@
           "group": {
             "inputs": {
               "value": {
-                "inputs": 269,
+                "inputs": 270,
                 "activeSessions": 32
               },
               "status": "partial",
@@ -363,7 +363,7 @@
       "all": {
         "inputs": {
           "value": {
-            "inputs": 4776,
+            "inputs": 4777,
             "activeSessions": 478
           },
           "status": "partial",
@@ -455,7 +455,7 @@
           "group": {
             "inputs": {
               "value": {
-                "inputs": 2075,
+                "inputs": 2076,
                 "activeSessions": 277
               },
               "status": "partial",
@@ -618,7 +618,7 @@
       "all": {
         "inputs": {
           "value": {
-            "inputs": 11728,
+            "inputs": 11729,
             "activeSessions": 3035
           },
           "status": "partial",
@@ -710,7 +710,7 @@
           "group": {
             "inputs": {
               "value": {
-                "inputs": 2103,
+                "inputs": 2104,
                 "activeSessions": 283
               },
               "status": "partial",
@@ -876,7 +876,7 @@
       "all": {
         "inputs": {
           "value": {
-            "inputs": 12101,
+            "inputs": 12102,
             "activeSessions": 3142
           },
           "status": "partial",
@@ -968,7 +968,7 @@
           "group": {
             "inputs": {
               "value": {
-                "inputs": 2103,
+                "inputs": 2104,
                 "activeSessions": 283
               },
               "status": "partial",
@@ -810691,7 +810691,7 @@
     },
     {
       "date": "2026-11-02",
-      "elapsedMs": 47335378,
+      "elapsedMs": 48498191,
       "usage": {
         "total": {
           "value": 17015447,
@@ -811116,7 +811116,7 @@
                 "elapsedMs": 189335
               }
             ],
-            "unavailableMs": 43735378
+            "unavailableMs": 44898191
           },
           "status": "partial",
           "reasons": [
@@ -811144,7 +811144,7 @@
                     "elapsedMs": 189335
                   }
                 ],
-                "unavailableMs": 43735378
+                "unavailableMs": 44898191
               },
               "status": "partial",
               "reasons": [
@@ -812142,7 +812142,7 @@
         },
         {
           "start": "2026-11-02T18:00:00.000Z",
-          "elapsedMs": 535378,
+          "elapsedMs": 1698191,
           "work": {
             "work": {
               "value": null,
@@ -812212,7 +812212,7 @@
         }
       ],
       "commits": {
-        "value": 1,
+        "value": 3,
         "status": "partial",
         "reasons": [
           "missing-source"
@@ -812228,8 +812228,8 @@
               "unknownTotalRecords": 0
             },
             "outOfScope": {
-              "records": 329,
-              "knownTokens": 37910413,
+              "records": 667,
+              "knownTokens": 83488772,
               "unknownTotalRecords": 0
             },
             "unattributed": {
