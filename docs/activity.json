@@ -14,8 +14,8 @@
   },
   "organization": "Komodo",
   "timezone": "America/New_York",
-  "generatedAt": "2026-11-02T17:40:51.543Z",
-  "cutoff": "2026-11-02T17:40:51.543Z",
+  "generatedAt": "2026-11-02T18:08:55.378Z",
+  "cutoff": "2026-11-02T18:08:55.378Z",
   "periodStart": "2025-11-03",
   "periodEnd": "2026-11-02",
   "collectionStatus": "partial",
@@ -810691,7 +810691,7 @@
     },
     {
       "date": "2026-11-02",
-      "elapsedMs": 45651543,
+      "elapsedMs": 47335378,
       "usage": {
         "total": {
           "value": 17015447,
@@ -811109,14 +811109,14 @@
             "histogram": [
               {
                 "agents": 0,
-                "elapsedMs": 2262208
+                "elapsedMs": 3410665
               },
               {
                 "agents": 1,
                 "elapsedMs": 189335
               }
             ],
-            "unavailableMs": 43200000
+            "unavailableMs": 43735378
           },
           "status": "partial",
           "reasons": [
@@ -811137,14 +811137,14 @@
                 "histogram": [
                   {
                     "agents": 0,
-                    "elapsedMs": 2262208
+                    "elapsedMs": 3410665
                   },
                   {
                     "agents": 1,
                     "elapsedMs": 189335
                   }
                 ],
-                "unavailableMs": 43200000
+                "unavailableMs": 43735378
               },
               "status": "partial",
               "reasons": [
@@ -812040,7 +812040,7 @@
         },
         {
           "start": "2026-11-02T17:00:00.000Z",
-          "elapsedMs": 2451543,
+          "elapsedMs": 3600000,
           "work": {
             "work": {
               "value": {
@@ -812051,7 +812051,7 @@
                 "histogram": [
                   {
                     "agents": 0,
-                    "elapsedMs": 2262208
+                    "elapsedMs": 3410665
                   },
                   {
                     "agents": 1,
@@ -812079,7 +812079,7 @@
                     "histogram": [
                       {
                         "agents": 0,
-                        "elapsedMs": 2262208
+                        "elapsedMs": 3410665
                       },
                       {
                         "agents": 1,
@@ -812089,6 +812089,76 @@
                     "unavailableMs": 0
                   },
                   "status": "partial",
+                  "reasons": [
+                    "parse-gap",
+                    "timing-unavailable"
+                  ]
+                }
+              },
+              {
+                "harness": "claude",
+                "work": {
+                  "value": null,
+                  "status": "unavailable",
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
+                }
+              },
+              {
+                "harness": "omp",
+                "work": {
+                  "value": null,
+                  "status": "unavailable",
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
+                }
+              },
+              {
+                "harness": "opencode",
+                "work": {
+                  "value": null,
+                  "status": "unavailable",
+                  "reasons": [
+                    "timing-unavailable"
+                  ]
+                }
+              },
+              {
+                "harness": "hermes",
+                "work": {
+                  "value": null,
+                  "status": "unavailable",
+                  "reasons": [
+                    "parse-gap",
+                    "timing-unavailable",
+                    "unattributed-session"
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        {
+          "start": "2026-11-02T18:00:00.000Z",
+          "elapsedMs": 535378,
+          "work": {
+            "work": {
+              "value": null,
+              "status": "unavailable",
+              "reasons": [
+                "parse-gap",
+                "timing-unavailable",
+                "unattributed-session"
+              ]
+            },
+            "byHarness": [
+              {
+                "harness": "codex",
+                "work": {
+                  "value": null,
+                  "status": "unavailable",
                   "reasons": [
                     "parse-gap",
                     "timing-unavailable"
@@ -812158,8 +812228,8 @@
               "unknownTotalRecords": 0
             },
             "outOfScope": {
-              "records": 96,
-              "knownTokens": 21219827,
+              "records": 329,
+              "knownTokens": 37910413,
               "unknownTotalRecords": 0
             },
             "unattributed": {
