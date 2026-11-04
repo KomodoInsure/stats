@@ -14,8 +14,8 @@
   },
   "organization": "Komodo",
   "timezone": "America/New_York",
-  "generatedAt": "2026-11-04T20:35:38.960Z",
-  "cutoff": "2026-11-04T20:35:38.960Z",
+  "generatedAt": "2026-11-04T20:51:50.422Z",
+  "cutoff": "2026-11-04T20:51:50.422Z",
   "periodStart": "2025-11-05",
   "periodEnd": "2026-11-04",
   "collectionStatus": "partial",
@@ -34,7 +34,7 @@
       "agent": "codex",
       "state": "available",
       "tokens": "recorded",
-      "work": "partial",
+      "work": "recorded",
       "reasons": []
     },
     {
@@ -127,8 +127,8 @@
       "all": {
         "inputs": {
           "value": {
-            "inputs": 462,
-            "activeSessions": 59
+            "inputs": 468,
+            "activeSessions": 61
           },
           "status": "partial",
           "reasons": [
@@ -150,15 +150,15 @@
           ]
         },
         "cadenceCoverage": {
-          "consideredSessions": 59,
+          "consideredSessions": 61,
           "excluded": {
             "inputHistory": 6,
             "mixedScope": 0,
-            "noRecordedWork": 52
+            "noRecordedWork": 54
           }
         },
         "excluded": {
-          "context": 14162,
+          "context": 14352,
           "replayed": 0,
           "unknownKind": 23,
           "subagent": 78,
@@ -216,8 +216,8 @@
           "group": {
             "inputs": {
               "value": {
-                "inputs": 426,
-                "activeSessions": 52
+                "inputs": 432,
+                "activeSessions": 54
               },
               "status": "partial",
               "reasons": [
@@ -233,15 +233,15 @@
               ]
             },
             "cadenceCoverage": {
-              "consideredSessions": 52,
+              "consideredSessions": 54,
               "excluded": {
                 "inputHistory": 0,
                 "mixedScope": 0,
-                "noRecordedWork": 52
+                "noRecordedWork": 54
               }
             },
             "excluded": {
-              "context": 14150,
+              "context": 14340,
               "replayed": 0,
               "unknownKind": 1,
               "subagent": 78,
@@ -358,8 +358,8 @@
       "all": {
         "inputs": {
           "value": {
-            "inputs": 4898,
-            "activeSessions": 491
+            "inputs": 4904,
+            "activeSessions": 493
           },
           "status": "partial",
           "reasons": [
@@ -381,15 +381,15 @@
           ]
         },
         "cadenceCoverage": {
-          "consideredSessions": 491,
+          "consideredSessions": 493,
           "excluded": {
             "inputHistory": 46,
             "mixedScope": 0,
-            "noRecordedWork": 303
+            "noRecordedWork": 305
           }
         },
         "excluded": {
-          "context": 95706,
+          "context": 95896,
           "replayed": 0,
           "unknownKind": 245,
           "subagent": 666,
@@ -447,8 +447,8 @@
           "group": {
             "inputs": {
               "value": {
-                "inputs": 2292,
-                "activeSessions": 303
+                "inputs": 2298,
+                "activeSessions": 305
               },
               "status": "partial",
               "reasons": [
@@ -464,15 +464,15 @@
               ]
             },
             "cadenceCoverage": {
-              "consideredSessions": 303,
+              "consideredSessions": 305,
               "excluded": {
                 "inputHistory": 0,
                 "mixedScope": 0,
-                "noRecordedWork": 303
+                "noRecordedWork": 305
               }
             },
             "excluded": {
-              "context": 95473,
+              "context": 95663,
               "replayed": 0,
               "unknownKind": 31,
               "subagent": 666,
@@ -610,8 +610,8 @@
       "all": {
         "inputs": {
           "value": {
-            "inputs": 11852,
-            "activeSessions": 3033
+            "inputs": 11858,
+            "activeSessions": 3035
           },
           "status": "partial",
           "reasons": [
@@ -633,15 +633,15 @@
           ]
         },
         "cadenceCoverage": {
-          "consideredSessions": 3033,
+          "consideredSessions": 3035,
           "excluded": {
             "inputHistory": 86,
             "mixedScope": 0,
-            "noRecordedWork": 458
+            "noRecordedWork": 460
           }
         },
         "excluded": {
-          "context": 99700,
+          "context": 99890,
           "replayed": 0,
           "unknownKind": 11205,
           "subagent": 766,
@@ -700,8 +700,8 @@
           "group": {
             "inputs": {
               "value": {
-                "inputs": 2318,
-                "activeSessions": 307
+                "inputs": 2324,
+                "activeSessions": 309
               },
               "status": "partial",
               "reasons": [
@@ -717,15 +717,15 @@
               ]
             },
             "cadenceCoverage": {
-              "consideredSessions": 307,
+              "consideredSessions": 309,
               "excluded": {
                 "inputHistory": 0,
                 "mixedScope": 0,
-                "noRecordedWork": 307
+                "noRecordedWork": 309
               }
             },
             "excluded": {
-              "context": 97876,
+              "context": 98066,
               "replayed": 0,
               "unknownKind": 31,
               "subagent": 706,
@@ -866,8 +866,8 @@
       "all": {
         "inputs": {
           "value": {
-            "inputs": 12341,
-            "activeSessions": 3172
+            "inputs": 12347,
+            "activeSessions": 3174
           },
           "status": "partial",
           "reasons": [
@@ -889,15 +889,15 @@
           ]
         },
         "cadenceCoverage": {
-          "consideredSessions": 3172,
+          "consideredSessions": 3174,
           "excluded": {
             "inputHistory": 104,
             "mixedScope": 0,
-            "noRecordedWork": 463
+            "noRecordedWork": 465
           }
         },
         "excluded": {
-          "context": 99843,
+          "context": 100033,
           "replayed": 0,
           "unknownKind": 12659,
           "subagent": 766,
@@ -956,8 +956,8 @@
           "group": {
             "inputs": {
               "value": {
-                "inputs": 2320,
-                "activeSessions": 309
+                "inputs": 2326,
+                "activeSessions": 311
               },
               "status": "partial",
               "reasons": [
@@ -973,15 +973,15 @@
               ]
             },
             "cadenceCoverage": {
-              "consideredSessions": 309,
+              "consideredSessions": 311,
               "excluded": {
                 "inputHistory": 0,
                 "mixedScope": 0,
-                "noRecordedWork": 309
+                "noRecordedWork": 311
               }
             },
             "excluded": {
-              "context": 98017,
+              "context": 98207,
               "replayed": 0,
               "unknownKind": 31,
               "subagent": 706,
@@ -536346,7 +536346,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -536492,7 +536492,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -537966,7 +537966,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -538484,7 +538484,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -538630,7 +538630,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -538780,7 +538780,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -538938,7 +538938,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -539180,7 +539180,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -539322,7 +539322,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -539468,7 +539468,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -539594,7 +539594,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -539706,7 +539706,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -539848,7 +539848,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -540710,7 +540710,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -540836,7 +540836,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -541388,7 +541388,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -541528,7 +541528,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -541660,7 +541660,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -541768,7 +541768,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -541868,7 +541868,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -541968,7 +541968,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -542068,7 +542068,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -542168,7 +542168,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -542284,7 +542284,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -542734,7 +542734,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -544384,7 +544384,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -544484,7 +544484,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -544584,7 +544584,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -548080,7 +548080,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -548180,7 +548180,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -548700,7 +548700,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -548964,7 +548964,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -549104,7 +549104,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -549846,7 +549846,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -550254,7 +550254,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -550388,7 +550388,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -550650,7 +550650,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -551550,7 +551550,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -551704,7 +551704,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -551862,7 +551862,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -552818,7 +552818,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -552956,7 +552956,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -553362,7 +553362,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -554320,7 +554320,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -555604,7 +555604,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -555704,7 +555704,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -555960,7 +555960,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -556076,7 +556076,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -556184,7 +556184,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -558744,7 +558744,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -558844,7 +558844,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -558944,7 +558944,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -560302,7 +560302,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -564375,7 +564375,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -564483,7 +564483,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -564615,7 +564615,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -564739,7 +564739,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -564855,7 +564855,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -564979,7 +564979,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -565095,7 +565095,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -565207,7 +565207,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -565329,7 +565329,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -565623,7 +565623,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -565733,7 +565733,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -565947,7 +565947,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -566768,7 +566768,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -566892,7 +566892,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -567016,7 +567016,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -567132,7 +567132,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -567240,7 +567240,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -567348,7 +567348,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -567448,7 +567448,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -567548,7 +567548,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -567676,7 +567676,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -567814,7 +567814,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -567932,7 +567932,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -568110,7 +568110,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -568210,7 +568210,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -568318,7 +568318,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -568426,7 +568426,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -568534,7 +568534,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -568704,7 +568704,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -568804,7 +568804,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -569571,7 +569571,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -569687,7 +569687,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -569795,7 +569795,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -569927,7 +569927,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -570051,7 +570051,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -570151,7 +570151,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -570515,7 +570515,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -570655,7 +570655,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -570779,7 +570779,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -570903,7 +570903,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -571027,7 +571027,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -571157,7 +571157,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -571307,7 +571307,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -571453,7 +571453,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -571789,7 +571789,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -571905,7 +571905,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -573346,7 +573346,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -573462,7 +573462,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -573562,7 +573562,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -573670,7 +573670,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -573800,7 +573800,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -573912,7 +573912,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -574042,7 +574042,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -574156,7 +574156,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -574268,7 +574268,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -574398,7 +574398,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -574522,7 +574522,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -574644,7 +574644,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -574756,7 +574756,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -574882,7 +574882,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -575709,7 +575709,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -575859,7 +575859,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -578897,7 +578897,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -578997,7 +578997,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -579455,7 +579455,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -579563,7 +579563,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -580203,7 +580203,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -580303,7 +580303,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -580901,7 +580901,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -581035,7 +581035,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -581153,7 +581153,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -581265,7 +581265,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -581487,7 +581487,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -581605,7 +581605,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -581819,7 +581819,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -581919,7 +581919,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -582019,7 +582019,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -582353,7 +582353,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -583092,7 +583092,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -583226,7 +583226,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -583344,7 +583344,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -583872,7 +583872,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -583988,7 +583988,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -584096,7 +584096,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -584204,7 +584204,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -584320,7 +584320,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -584428,7 +584428,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -584544,7 +584544,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -584644,7 +584644,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -584744,7 +584744,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -584836,7 +584836,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -584936,7 +584936,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -585052,7 +585052,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -585144,7 +585144,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -585252,7 +585252,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -585360,7 +585360,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -586226,7 +586226,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -586334,7 +586334,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -586442,7 +586442,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -586962,7 +586962,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -587070,7 +587070,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -587178,7 +587178,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -587286,7 +587286,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -587394,7 +587394,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -587580,7 +587580,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -587696,7 +587696,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -587820,7 +587820,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -587928,7 +587928,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -588246,7 +588246,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -588354,7 +588354,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -589119,7 +589119,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -589227,7 +589227,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -589327,7 +589327,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -589427,7 +589427,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -589527,7 +589527,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -589841,7 +589841,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -589987,7 +589987,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -590145,7 +590145,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -590303,7 +590303,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -590465,7 +590465,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -590635,7 +590635,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -590767,7 +590767,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -590883,7 +590883,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -591007,7 +591007,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -591139,7 +591139,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -591247,7 +591247,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -591371,7 +591371,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -591479,7 +591479,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -591587,7 +591587,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -591703,7 +591703,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -591819,7 +591819,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -592444,7 +592444,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -592566,7 +592566,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -592684,7 +592684,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -592798,7 +592798,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -593182,7 +593182,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -593308,7 +593308,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -593430,7 +593430,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -593538,7 +593538,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -593646,7 +593646,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -593754,7 +593754,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -593940,7 +593940,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -594056,7 +594056,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -594172,7 +594172,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -594280,7 +594280,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -594388,7 +594388,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -594496,7 +594496,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -594588,7 +594588,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -594680,7 +594680,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -594780,7 +594780,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -595328,7 +595328,7 @@
                 ],
                 "unavailableMs": 0
               },
-              "status": "partial",
+              "status": "recorded",
               "reasons": []
             }
           },
@@ -595420,7 +595420,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -595512,7 +595512,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -595604,7 +595604,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -595696,7 +595696,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -595788,7 +595788,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -595880,7 +595880,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -595972,7 +595972,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -596064,7 +596064,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -596156,7 +596156,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -596256,7 +596256,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -596356,7 +596356,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -596448,7 +596448,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -596540,7 +596540,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -596632,7 +596632,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -596724,7 +596724,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -596816,7 +596816,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -596908,7 +596908,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -597000,7 +597000,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -597092,7 +597092,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -597184,7 +597184,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -597276,7 +597276,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -597368,7 +597368,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -597460,7 +597460,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -597552,7 +597552,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -597934,7 +597934,7 @@
                 ],
                 "unavailableMs": 0
               },
-              "status": "partial",
+              "status": "recorded",
               "reasons": []
             }
           },
@@ -598026,7 +598026,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -598118,7 +598118,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -598210,7 +598210,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -598302,7 +598302,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -598394,7 +598394,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -598486,7 +598486,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -598578,7 +598578,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -598702,7 +598702,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -598818,7 +598818,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -598918,7 +598918,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -599034,7 +599034,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -599150,7 +599150,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -599266,7 +599266,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -599382,7 +599382,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -599498,7 +599498,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -599606,7 +599606,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -599698,7 +599698,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -599790,7 +599790,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -599882,7 +599882,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -599974,7 +599974,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -600066,7 +600066,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -600158,7 +600158,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -600250,7 +600250,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -600342,7 +600342,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -600803,7 +600803,7 @@
                 ],
                 "unavailableMs": 0
               },
-              "status": "partial",
+              "status": "recorded",
               "reasons": []
             }
           },
@@ -600927,7 +600927,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -601019,7 +601019,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -601111,7 +601111,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -601203,7 +601203,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -601295,7 +601295,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -601387,7 +601387,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -601479,7 +601479,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -601571,7 +601571,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -601663,7 +601663,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -601755,7 +601755,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -601895,7 +601895,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -602027,7 +602027,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -602175,7 +602175,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -602333,7 +602333,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -602475,7 +602475,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -602625,7 +602625,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -602767,7 +602767,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -602909,7 +602909,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -603043,7 +603043,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -603181,7 +603181,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -603311,7 +603311,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -603419,7 +603419,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -603519,7 +603519,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -603647,7 +603647,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -604323,7 +604323,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -604455,7 +604455,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -604979,7 +604979,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -605111,7 +605111,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -605235,7 +605235,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -605441,7 +605441,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -605565,7 +605565,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -605673,7 +605673,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -605801,7 +605801,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -605941,7 +605941,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -606081,7 +606081,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -608188,7 +608188,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -608320,7 +608320,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -608474,7 +608474,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -608976,7 +608976,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -609092,7 +609092,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -609192,7 +609192,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -609582,7 +609582,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -610687,7 +610687,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -610847,7 +610847,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -612677,7 +612677,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -612805,7 +612805,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -612933,7 +612933,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -613061,7 +613061,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -613315,7 +613315,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -613471,7 +613471,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -614713,7 +614713,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -614829,7 +614829,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -615285,7 +615285,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -615425,7 +615425,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -615705,7 +615705,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -615833,7 +615833,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -615985,7 +615985,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -616133,7 +616133,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -616261,7 +616261,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -616747,7 +616747,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -617803,7 +617803,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -617971,7 +617971,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -618131,7 +618131,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -618263,7 +618263,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -618753,7 +618753,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -618889,7 +618889,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -619033,7 +619033,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -619169,7 +619169,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -619285,7 +619285,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -619393,7 +619393,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -619509,7 +619509,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -619625,7 +619625,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -619733,7 +619733,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -619841,7 +619841,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -619965,7 +619965,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -620093,7 +620093,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -620193,7 +620193,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -620305,7 +620305,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -620445,7 +620445,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -621277,7 +621277,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -621477,7 +621477,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -621633,7 +621633,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -621741,7 +621741,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -621849,7 +621849,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -621949,7 +621949,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -622057,7 +622057,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -622165,7 +622165,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -622273,7 +622273,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -622381,7 +622381,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -622489,7 +622489,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -622589,7 +622589,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -622697,7 +622697,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -628434,7 +628434,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -628716,7 +628716,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -629148,7 +629148,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -629288,7 +629288,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -629538,7 +629538,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -629670,7 +629670,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -629810,7 +629810,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -630154,7 +630154,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -631358,7 +631358,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -632406,7 +632406,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -635582,7 +635582,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -637508,7 +637508,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -641983,7 +641983,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -642119,7 +642119,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -642251,7 +642251,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -642367,7 +642367,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -642483,7 +642483,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -642599,7 +642599,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -643091,7 +643091,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -643207,7 +643207,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -643323,7 +643323,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -643431,7 +643431,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -643531,7 +643531,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -643631,7 +643631,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -643731,7 +643731,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -646483,7 +646483,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -646583,7 +646583,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -646683,7 +646683,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -646783,7 +646783,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -648527,7 +648527,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -648635,7 +648635,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -648779,7 +648779,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -648955,7 +648955,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -649127,7 +649127,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -649275,7 +649275,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -649439,7 +649439,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -652545,7 +652545,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -652661,7 +652661,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -652813,7 +652813,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -653009,7 +653009,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -653205,7 +653205,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -653393,7 +653393,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -653577,7 +653577,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -653741,7 +653741,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -653893,7 +653893,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -654061,7 +654061,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -654229,7 +654229,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -654365,7 +654365,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -654563,7 +654563,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -654687,7 +654687,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -654815,7 +654815,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -655747,7 +655747,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -656519,7 +656519,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -656651,7 +656651,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -656795,7 +656795,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -656931,7 +656931,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -657067,7 +657067,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -657219,7 +657219,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -657367,7 +657367,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -657503,7 +657503,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -657623,7 +657623,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -657747,7 +657747,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -658105,7 +658105,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -658229,7 +658229,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -659045,7 +659045,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -659165,7 +659165,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -659273,7 +659273,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -659373,7 +659373,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -659473,7 +659473,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -659573,7 +659573,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -659673,7 +659673,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -659773,7 +659773,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -659881,7 +659881,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -660193,7 +660193,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -660321,7 +660321,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -660437,7 +660437,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -660545,7 +660545,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -660653,7 +660653,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -660761,7 +660761,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -660869,7 +660869,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -661331,7 +661331,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -662391,7 +662391,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -662527,7 +662527,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -662647,7 +662647,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -662747,7 +662747,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -663065,7 +663065,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -663315,7 +663315,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -663675,7 +663675,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -663823,7 +663823,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -663967,7 +663967,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -664107,7 +664107,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -664247,7 +664247,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -664379,7 +664379,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -664601,7 +664601,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -664749,7 +664749,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -664917,7 +664917,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -667793,7 +667793,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -667945,7 +667945,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -668085,7 +668085,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -668217,7 +668217,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -668341,7 +668341,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -669801,7 +669801,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -669949,7 +669949,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -670089,7 +670089,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -670257,7 +670257,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -670421,7 +670421,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -670553,7 +670553,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -671285,7 +671285,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -671525,7 +671525,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -671741,7 +671741,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -671913,7 +671913,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -672045,7 +672045,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -672173,7 +672173,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -672321,7 +672321,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -672493,7 +672493,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -672649,7 +672649,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -672837,7 +672837,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -673053,7 +673053,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -673233,7 +673233,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -674431,7 +674431,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -674547,7 +674547,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -674663,7 +674663,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -674771,7 +674771,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -674879,7 +674879,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -674979,7 +674979,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -675431,7 +675431,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -675587,7 +675587,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -676213,7 +676213,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -676389,7 +676389,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -676565,7 +676565,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -680752,7 +680752,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -680944,7 +680944,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -681132,7 +681132,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -681344,7 +681344,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -681536,7 +681536,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -681724,7 +681724,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -682098,7 +682098,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -682274,7 +682274,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -682694,7 +682694,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -682814,7 +682814,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -682962,7 +682962,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -684737,7 +684737,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -684893,7 +684893,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -685045,7 +685045,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -685705,7 +685705,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -685861,7 +685861,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -686089,7 +686089,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -698587,7 +698587,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -725563,7 +725563,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -725695,7 +725695,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -725851,7 +725851,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -726309,7 +726309,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -728074,7 +728074,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -728190,7 +728190,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -728994,7 +728994,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -732047,7 +732047,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -732301,7 +732301,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -732445,7 +732445,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -738862,7 +738862,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -738998,7 +738998,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -739286,7 +739286,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -739526,7 +739526,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -739704,7 +739704,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -739804,7 +739804,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -739896,7 +739896,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -739988,7 +739988,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -740080,7 +740080,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -740180,7 +740180,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -740929,7 +740929,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -741029,7 +741029,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -741145,7 +741145,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -741665,7 +741665,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -741765,7 +741765,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -742145,7 +742145,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -742673,7 +742673,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -745187,7 +745187,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -746228,7 +746228,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -751425,7 +751425,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -751665,7 +751665,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -751789,7 +751789,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -751897,7 +751897,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -752005,7 +752005,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -752105,7 +752105,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -754100,7 +754100,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -754232,7 +754232,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -754340,7 +754340,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -754432,7 +754432,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -754540,7 +754540,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -754640,7 +754640,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -754768,7 +754768,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -754920,7 +754920,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -755060,7 +755060,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -755220,7 +755220,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -755360,7 +755360,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -755492,7 +755492,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -755592,7 +755592,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -756833,7 +756833,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -757501,7 +757501,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -757609,7 +757609,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -757717,7 +757717,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -757825,7 +757825,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -757933,7 +757933,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -758041,7 +758041,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -758871,7 +758871,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -758971,7 +758971,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -759706,7 +759706,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -759814,7 +759814,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -760544,7 +760544,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -760644,7 +760644,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -763035,7 +763035,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -769586,7 +769586,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -769922,7 +769922,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -770038,7 +770038,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -770130,7 +770130,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -770230,7 +770230,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -770322,7 +770322,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -770422,7 +770422,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -772451,7 +772451,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -772543,7 +772543,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -772635,7 +772635,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -772727,7 +772727,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -772819,7 +772819,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -772911,7 +772911,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -773023,7 +773023,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -775373,7 +775373,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -775473,7 +775473,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -775659,7 +775659,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -775783,7 +775783,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -775907,7 +775907,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -776015,7 +776015,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -776131,7 +776131,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -776231,7 +776231,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -776323,7 +776323,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -776423,7 +776423,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -778174,7 +778174,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -778274,7 +778274,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -778382,7 +778382,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -778482,7 +778482,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -778582,7 +778582,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -778674,7 +778674,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -778782,7 +778782,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -778890,7 +778890,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -778990,7 +778990,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -779448,7 +779448,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -780758,7 +780758,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -783101,7 +783101,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -783209,7 +783209,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -783317,7 +783317,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -783417,7 +783417,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -783805,7 +783805,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -783983,7 +783983,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -784091,7 +784091,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -784191,7 +784191,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -787546,7 +787546,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -788276,7 +788276,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -788516,7 +788516,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -788616,7 +788616,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -789952,7 +789952,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -790060,7 +790060,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -790168,7 +790168,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -790268,7 +790268,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -790470,7 +790470,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -790602,7 +790602,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -790796,7 +790796,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -790928,7 +790928,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -791020,7 +791020,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -791112,7 +791112,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -791204,7 +791204,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -791296,7 +791296,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -791388,7 +791388,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -791865,7 +791865,7 @@
                 ],
                 "unavailableMs": 0
               },
-              "status": "partial",
+              "status": "recorded",
               "reasons": []
             }
           },
@@ -791989,7 +791989,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -792105,7 +792105,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -792197,7 +792197,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -792289,7 +792289,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -792381,7 +792381,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -792473,7 +792473,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -792565,7 +792565,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -792657,7 +792657,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -792749,7 +792749,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -792841,7 +792841,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -792957,7 +792957,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -793081,7 +793081,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -793189,7 +793189,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -793297,7 +793297,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -793405,7 +793405,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -793505,7 +793505,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -793605,7 +793605,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -793705,7 +793705,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -793805,7 +793805,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -793905,7 +793905,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -794005,7 +794005,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -794105,7 +794105,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -794205,7 +794205,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -794313,7 +794313,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -794995,7 +794995,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -795095,7 +795095,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -795195,7 +795195,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -795295,7 +795295,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -795395,7 +795395,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -795495,7 +795495,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -795595,7 +795595,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -795695,7 +795695,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -795795,7 +795795,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -795895,7 +795895,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -795995,7 +795995,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -796087,7 +796087,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -796187,7 +796187,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -796279,7 +796279,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -796371,7 +796371,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -796463,7 +796463,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -796571,7 +796571,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -804719,7 +804719,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -806760,7 +806760,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -806868,7 +806868,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -806976,7 +806976,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -807084,7 +807084,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -807184,7 +807184,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -807284,7 +807284,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -807376,7 +807376,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -807476,7 +807476,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -807997,10 +807997,10 @@
     },
     {
       "date": "2026-11-04",
-      "elapsedMs": 56138960,
+      "elapsedMs": 57110422,
       "usage": {
         "total": {
-          "value": 395525856,
+          "value": 423676955,
           "status": "partial",
           "reasons": [
             "duplicate-ambiguity",
@@ -808011,7 +808011,7 @@
           ]
         },
         "uncachedInput": {
-          "value": 43991,
+          "value": 44381,
           "status": "partial",
           "reasons": [
             "duplicate-ambiguity",
@@ -808022,7 +808022,7 @@
           ]
         },
         "cacheRead": {
-          "value": 389429610,
+          "value": 417116472,
           "status": "partial",
           "reasons": [
             "duplicate-ambiguity",
@@ -808033,7 +808033,7 @@
           ]
         },
         "cacheWrite": {
-          "value": 4818803,
+          "value": 5182216,
           "status": "partial",
           "reasons": [
             "duplicate-ambiguity",
@@ -808044,7 +808044,7 @@
           ]
         },
         "output": {
-          "value": 1233452,
+          "value": 1333886,
           "status": "partial",
           "reasons": [
             "duplicate-ambiguity",
@@ -808055,7 +808055,7 @@
           ]
         },
         "reasoning": {
-          "value": 209655,
+          "value": 247149,
           "status": "partial",
           "reasons": [
             "duplicate-ambiguity",
@@ -808078,8 +808078,8 @@
         },
         "cacheReadBasis": {
           "value": {
-            "readTokens": 389429610,
-            "promptTokens": 394292404
+            "readTokens": 417116472,
+            "promptTokens": 422343069
           },
           "status": "partial",
           "reasons": [
@@ -808093,7 +808093,7 @@
       },
       "cost": {
         "apiEquivalentUsd": {
-          "value": 127.70313540000002,
+          "value": 137.0678128,
           "status": "partial",
           "reasons": [
             "duplicate-ambiguity",
@@ -808103,9 +808103,9 @@
             "upstream-owned"
           ]
         },
-        "pricedRecords": 2005,
+        "pricedRecords": 2189,
         "unpricedRecords": 0,
-        "pricedTokens": 395525856,
+        "pricedTokens": 423676955,
         "unpricedTokens": 0,
         "sourceEstimatedUsd": {
           "value": null,
@@ -808129,7 +808129,7 @@
             "upstream-owned"
           ]
         },
-        "unknownRecords": 2005,
+        "unknownRecords": 2189,
         "includedRecords": 0
       },
       "usageRows": [
@@ -808139,42 +808139,42 @@
           "model": "claude-opus-5-5",
           "usage": {
             "total": {
-              "value": 394809234,
+              "value": 422960333,
               "status": "partial",
               "reasons": [
                 "parse-gap"
               ]
             },
             "uncachedInput": {
-              "value": 4118,
+              "value": 4508,
               "status": "partial",
               "reasons": [
                 "parse-gap"
               ]
             },
             "cacheRead": {
-              "value": 388756202,
+              "value": 416443064,
               "status": "partial",
               "reasons": [
                 "parse-gap"
               ]
             },
             "cacheWrite": {
-              "value": 4818803,
+              "value": 5182216,
               "status": "partial",
               "reasons": [
                 "parse-gap"
               ]
             },
             "output": {
-              "value": 1230111,
+              "value": 1330545,
               "status": "partial",
               "reasons": [
                 "parse-gap"
               ]
             },
             "reasoning": {
-              "value": 209618,
+              "value": 247112,
               "status": "partial",
               "reasons": [
                 "parse-gap"
@@ -808189,8 +808189,8 @@
             },
             "cacheReadBasis": {
               "value": {
-                "readTokens": 388756202,
-                "promptTokens": 393579123
+                "readTokens": 416443064,
+                "promptTokens": 421629788
               },
               "status": "partial",
               "reasons": [
@@ -808200,15 +808200,15 @@
           },
           "cost": {
             "apiEquivalentUsd": {
-              "value": 126.46394739999998,
+              "value": 135.8286248,
               "status": "partial",
               "reasons": [
                 "parse-gap"
               ]
             },
-            "pricedRecords": 1983,
+            "pricedRecords": 2167,
             "unpricedRecords": 0,
-            "pricedTokens": 394809234,
+            "pricedTokens": 422960333,
             "unpricedTokens": 0,
             "sourceEstimatedUsd": {
               "value": null,
@@ -808224,7 +808224,7 @@
                 "parse-gap"
               ]
             },
-            "unknownRecords": 1983,
+            "unknownRecords": 2167,
             "includedRecords": 0
           }
         },
@@ -808312,7 +808312,7 @@
             "histogram": [
               {
                 "agents": 0,
-                "elapsedMs": 2080634
+                "elapsedMs": 3052096
               },
               {
                 "agents": 1,
@@ -808340,7 +808340,7 @@
                 "histogram": [
                   {
                     "agents": 0,
-                    "elapsedMs": 2080634
+                    "elapsedMs": 3052096
                   },
                   {
                     "agents": 1,
@@ -809453,7 +809453,7 @@
         },
         {
           "start": "2026-11-04T20:00:00.000Z",
-          "elapsedMs": 2138960,
+          "elapsedMs": 3110422,
           "work": {
             "work": {
               "value": {
@@ -809464,7 +809464,7 @@
                 "histogram": [
                   {
                     "agents": 0,
-                    "elapsedMs": 2080634
+                    "elapsedMs": 3052096
                   },
                   {
                     "agents": 1,
@@ -809492,7 +809492,7 @@
                     "histogram": [
                       {
                         "agents": 0,
-                        "elapsedMs": 2080634
+                        "elapsedMs": 3052096
                       },
                       {
                         "agents": 1,
@@ -809501,7 +809501,7 @@
                     ],
                     "unavailableMs": 0
                   },
-                  "status": "partial",
+                  "status": "recorded",
                   "reasons": []
                 }
               },
@@ -809553,7 +809553,7 @@
         }
       ],
       "commits": {
-        "value": 3,
+        "value": 5,
         "status": "partial",
         "reasons": [
           "missing-source"
@@ -809569,8 +809569,8 @@
               "unknownTotalRecords": 0
             },
             "outOfScope": {
-              "records": 104,
-              "knownTokens": 12125316,
+              "records": 105,
+              "knownTokens": 12175805,
               "unknownTotalRecords": 0
             },
             "unattributed": {
@@ -809582,8 +809582,8 @@
           {
             "harness": "claude",
             "included": {
-              "records": 1983,
-              "knownTokens": 394809234,
+              "records": 2167,
+              "knownTokens": 422960333,
               "unknownTotalRecords": 0
             },
             "outOfScope": {
