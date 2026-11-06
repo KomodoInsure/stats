@@ -14,8 +14,8 @@
   },
   "organization": "Komodo",
   "timezone": "America/New_York",
-  "generatedAt": "2026-11-06T12:40:54.789Z",
-  "cutoff": "2026-11-06T12:40:54.789Z",
+  "generatedAt": "2026-11-06T12:56:49.114Z",
+  "cutoff": "2026-11-06T12:56:49.114Z",
   "periodStart": "2025-11-07",
   "periodEnd": "2026-11-06",
   "collectionStatus": "partial",
@@ -128,7 +128,7 @@
       "all": {
         "inputs": {
           "value": {
-            "inputs": 507,
+            "inputs": 508,
             "activeSessions": 60
           },
           "status": "partial",
@@ -160,7 +160,7 @@
           }
         },
         "excluded": {
-          "context": 18922,
+          "context": 18923,
           "replayed": 0,
           "unknownKind": 23,
           "subagent": 96,
@@ -219,7 +219,7 @@
           "group": {
             "inputs": {
               "value": {
-                "inputs": 450,
+                "inputs": 451,
                 "activeSessions": 54
               },
               "status": "partial",
@@ -244,7 +244,7 @@
               }
             },
             "excluded": {
-              "context": 18911,
+              "context": 18912,
               "replayed": 0,
               "unknownKind": 7,
               "subagent": 96,
@@ -361,7 +361,7 @@
       "all": {
         "inputs": {
           "value": {
-            "inputs": 4587,
+            "inputs": 4588,
             "activeSessions": 436
           },
           "status": "partial",
@@ -393,7 +393,7 @@
           }
         },
         "excluded": {
-          "context": 92583,
+          "context": 92584,
           "replayed": 0,
           "unknownKind": 177,
           "subagent": 652,
@@ -452,7 +452,7 @@
           "group": {
             "inputs": {
               "value": {
-                "inputs": 2257,
+                "inputs": 2258,
                 "activeSessions": 281
               },
               "status": "partial",
@@ -477,7 +477,7 @@
               }
             },
             "excluded": {
-              "context": 92367,
+              "context": 92368,
               "replayed": 0,
               "unknownKind": 27,
               "subagent": 652,
@@ -605,7 +605,7 @@
       "all": {
         "inputs": {
           "value": {
-            "inputs": 11880,
+            "inputs": 11881,
             "activeSessions": 3025
           },
           "status": "partial",
@@ -637,7 +637,7 @@
           }
         },
         "excluded": {
-          "context": 109502,
+          "context": 109503,
           "replayed": 0,
           "unknownKind": 11089,
           "subagent": 825,
@@ -697,7 +697,7 @@
           "group": {
             "inputs": {
               "value": {
-                "inputs": 2491,
+                "inputs": 2492,
                 "activeSessions": 328
               },
               "status": "partial",
@@ -722,7 +722,7 @@
               }
             },
             "excluded": {
-              "context": 107675,
+              "context": 107676,
               "replayed": 0,
               "unknownKind": 37,
               "subagent": 765,
@@ -863,7 +863,7 @@
       "all": {
         "inputs": {
           "value": {
-            "inputs": 12543,
+            "inputs": 12544,
             "activeSessions": 3194
           },
           "status": "partial",
@@ -895,7 +895,7 @@
           }
         },
         "excluded": {
-          "context": 109645,
+          "context": 109646,
           "replayed": 0,
           "unknownKind": 12672,
           "subagent": 825,
@@ -955,7 +955,7 @@
           "group": {
             "inputs": {
               "value": {
-                "inputs": 2493,
+                "inputs": 2494,
                 "activeSessions": 330
               },
               "status": "partial",
@@ -980,7 +980,7 @@
               }
             },
             "excluded": {
-              "context": 107816,
+              "context": 107817,
               "replayed": 0,
               "unknownKind": 37,
               "subagent": 765,
@@ -811945,7 +811945,7 @@
     },
     {
       "date": "2026-11-06",
-      "elapsedMs": 27654789,
+      "elapsedMs": 28609114,
       "usage": {
         "total": {
           "value": 241214368,
@@ -812051,7 +812051,7 @@
             "upstream-owned"
           ]
         },
-        "pricedRecords": 657,
+        "pricedRecords": 658,
         "unpricedRecords": 0,
         "pricedTokens": 241214368,
         "unpricedTokens": 0,
@@ -812077,7 +812077,7 @@
             "upstream-owned"
           ]
         },
-        "unknownRecords": 657,
+        "unknownRecords": 658,
         "includedRecords": 0
       },
       "usageRows": [
@@ -812151,6 +812151,99 @@
               "reasons": []
             },
             "unknownRecords": 657,
+            "includedRecords": 0
+          }
+        },
+        {
+          "harness": "claude",
+          "provider": "unknown",
+          "model": "unknown",
+          "usage": {
+            "total": {
+              "value": 0,
+              "status": "partial",
+              "reasons": [
+                "unknown-model"
+              ]
+            },
+            "uncachedInput": {
+              "value": 0,
+              "status": "partial",
+              "reasons": [
+                "unknown-model"
+              ]
+            },
+            "cacheRead": {
+              "value": 0,
+              "status": "partial",
+              "reasons": [
+                "unknown-model"
+              ]
+            },
+            "cacheWrite": {
+              "value": 0,
+              "status": "partial",
+              "reasons": [
+                "unknown-model"
+              ]
+            },
+            "output": {
+              "value": 0,
+              "status": "partial",
+              "reasons": [
+                "unknown-model"
+              ]
+            },
+            "reasoning": {
+              "value": null,
+              "status": "unavailable",
+              "reasons": [
+                "parse-gap",
+                "unknown-model"
+              ]
+            },
+            "otherRecorded": {
+              "value": 0,
+              "status": "partial",
+              "reasons": [
+                "unknown-model"
+              ]
+            },
+            "cacheReadBasis": {
+              "value": null,
+              "status": "unavailable",
+              "reasons": [
+                "unknown-model"
+              ]
+            }
+          },
+          "cost": {
+            "apiEquivalentUsd": {
+              "value": 0,
+              "status": "partial",
+              "reasons": [
+                "unknown-model"
+              ]
+            },
+            "pricedRecords": 1,
+            "unpricedRecords": 0,
+            "pricedTokens": 0,
+            "unpricedTokens": 0,
+            "sourceEstimatedUsd": {
+              "value": null,
+              "status": "unavailable",
+              "reasons": [
+                "unknown-model"
+              ]
+            },
+            "providerReportedUsd": {
+              "value": null,
+              "status": "unavailable",
+              "reasons": [
+                "unknown-model"
+              ]
+            },
+            "unknownRecords": 1,
             "includedRecords": 0
           }
         }
@@ -812714,7 +812807,7 @@
         },
         {
           "start": "2026-11-06T12:00:00.000Z",
-          "elapsedMs": 2454789,
+          "elapsedMs": 3409114,
           "work": {
             "work": {
               "value": null,
@@ -812795,7 +812888,7 @@
           {
             "harness": "claude",
             "included": {
-              "records": 657,
+              "records": 658,
               "knownTokens": 241214368,
               "unknownTotalRecords": 0
             },
